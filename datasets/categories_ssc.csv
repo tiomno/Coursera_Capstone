@@ -1,2157 +1,2157 @@
-,ssc,category
-0,20002,Park
-1,20002,Park
-2,20002,Cultural Center
-3,20002,Coffee Shop
-4,20002,Café
-5,20002,Café
-6,20002,Pet Store
-7,20002,Park
-8,20002,Garden
-9,20002,Art Gallery
-10,20002,Café
-11,20002,Coffee Shop
-12,20002,Café
-13,20002,Coffee Shop
-14,20002,Café
-15,20002,Café
-16,20002,Café
-17,20002,Café
-18,20002,Café
-19,20002,Café
-20,20002,Art Gallery
-21,20002,Gym / Fitness Center
-22,20002,General Entertainment
-23,20002,Café
-24,20002,Art Gallery
-25,20002,Playground
-26,20002,Café
-27,20002,Café
-28,20003,Dog Run
-29,20003,Pizza Place
-30,20003,Sports Club
-31,20003,Playground
-32,20003,Café
-33,20017,Café
-34,20017,Café
-35,20017,Café
-36,20017,Playground
-37,20017,Sports Club
-38,20017,Pool
-39,20017,Park
-40,20017,Park
-41,20017,Café
-42,20017,Football Stadium
-43,20017,Café
-44,20017,Café
-45,20017,Breakfast Spot
-46,20017,Playground
-47,20017,Café
-48,20017,Café
-49,20017,Café
-50,20017,Café
-51,20017,Café
-52,20017,Café
-53,20017,Café
-54,20017,Playground
-55,20017,Lake
-56,20017,Café
-57,20033,Café
-58,20033,Coffee Shop
-59,20033,Park
-60,20033,Café
-61,20033,Park
-62,20033,Park
-63,20033,Historic Site
-64,20033,Café
-65,20033,Café
-66,20033,Café
-67,20033,Playground
-68,20065,Café
-69,20065,Café
-70,20065,Café
-71,20065,Café
-72,20065,Pizza Place
-73,20065,Coffee Shop
-74,20065,Park
-75,20065,Recreation Center
-76,20065,Café
-77,20065,Café
-78,20065,Café
-79,20065,Café
-80,20065,Café
-81,20065,Café
-82,20065,Café
-83,20065,Breakfast Spot
-84,20065,Art Museum
-85,20065,Art Gallery
-86,20065,Art Gallery
-87,20065,Dog Run
-88,20065,Art Gallery
-89,20065,Café
-90,20065,Theme Park
-91,20065,Café
-92,20065,Café
-93,20065,Café
-94,20065,Café
-95,20065,Coffee Shop
-96,20065,Café
-97,20074,Pizza Place
-98,20074,Park
-99,20074,Coffee Shop
-100,20074,Pizza Place
-101,20074,Coffee Shop
-102,20074,Café
-103,20074,Bridge
-104,20074,Park
-105,20074,Café
-106,20074,General Entertainment
-107,20074,Pizza Place
-108,20074,General Entertainment
-109,20074,Pizza Place
-110,20074,Café
-111,20074,Café
-112,20074,Pizza Place
-113,20074,Café
-114,20074,Café
-115,20074,Pool Hall
-116,20074,Café
-117,20074,Café
-118,20076,Pizza Place
-119,20076,Café
-120,20076,Café
-121,20076,Café
-122,20076,Café
-123,20076,Pizza Place
-124,20076,Coffee Shop
-125,20076,Recreation Center
-126,20076,Park
-127,20076,Park
-128,20076,Café
-129,20076,Café
-130,20076,Pizza Place
-131,20076,Café
-132,20076,Park
-133,20076,Pizza Place
-134,20076,Coffee Shop
-135,20076,Café
-136,20078,Pizza Place
-137,20078,Café
-138,20078,Pizza Place
-139,20078,Café
-140,20078,Café
-141,20078,Beach
-142,20078,Beach
-143,20078,Beach
-144,20079,Pizza Place
-145,20079,Soccer Field
-146,20079,Playground
-147,20079,Dog Run
-148,20079,General Entertainment
-149,20079,Café
-150,20079,Coffee Shop
-151,20079,Park
-152,20079,Garden
-153,20079,Playground
-154,20104,Café
-155,20104,Café
-156,20104,Café
-157,20104,Park
-158,20104,Café
-159,20104,Coffee Shop
-160,20104,Pizza Place
-161,20104,Coffee Shop
-162,20104,Coffee Shop
-163,20104,Pizza Place
-164,20104,Garden
-165,20104,Park
-166,20104,Movie Theater
-167,20104,Pizza Place
-168,20104,Zoo Exhibit
-169,20104,Café
-170,20104,Café
-171,20104,Café
-172,20104,Coffee Shop
-173,20104,Pizza Place
-174,20104,Café
-175,20104,Café
-176,20104,Park
-177,20104,Art Gallery
-178,20104,Art Gallery
-179,20104,Café
-180,20104,Coffee Shop
-181,20104,Theme Park
-182,20104,Café
-183,20104,Café
-184,20122,Café
-185,20122,Café
-186,20122,Pizza Place
-187,20122,Café
-188,20122,Café
-189,20122,Café
-190,20122,Café
-191,20122,Café
-192,20122,Café
-193,20122,Indoor Play Area
-194,20122,Café
-195,20122,Café
-196,20122,Café
-197,20122,Café
-198,20122,Café
-199,20122,Café
-200,20122,Coffee Shop
-201,20122,Café
-202,20123,Park
-203,20181,Exhibit
-204,20181,Café
-205,20181,Soccer Field
-206,20181,Sports Club
-207,20181,Park
-208,20181,Café
-209,20181,Pizza Place
-210,20181,Café
-211,20181,Australian Restaurant
-212,20181,Café
-213,20213,Café
-214,20213,Café
-215,20213,American Restaurant
-216,20213,Café
-217,20213,Café
-218,20213,Café
-219,20213,Café
-220,20213,Café
-221,20213,Café
-222,20213,Café
-223,20213,Café
-224,20213,Pizza Place
-225,20213,Pizza Place
-226,20213,Café
-227,20213,Café
-228,20213,Café
-229,20213,Café
-230,20213,Café
-231,20213,Recreation Center
-232,20213,Coffee Shop
-233,20213,Café
-234,20213,Café
-235,20213,Café
-236,20213,Pool Hall
-237,20213,Eastern European Restaurant
-238,20213,Coffee Shop
-239,20213,Café
-240,20214,Café
-241,20251,Pizza Place
-242,20251,Café
-243,20251,Kebab Restaurant
-244,20251,Café
-245,20251,Café
-246,20251,Playground
-247,20251,Café
-248,20251,Café
-249,20251,Park
-250,20251,Park
-251,20251,Café
-252,20251,Café
-253,20251,Sports Club
-254,20251,Café
-255,20251,Café
-256,20251,Café
-257,20251,Park
-258,20251,Pizza Place
-259,20251,Café
-260,20251,Café
-261,20251,Café
-262,20251,Playground
-263,20251,Café
-264,20251,General Entertainment
-265,20251,Café
-266,20251,Café
-267,20251,Café
-268,20251,Café
-269,20251,Café
-270,20253,Park
-271,20253,Café
-272,20253,Café
-273,20277,Beach
-274,20277,Café
-275,20277,Pizza Place
-276,20277,Pizza Place
-277,20277,Beach
-278,20312,Garden
-279,20312,Park
-280,20312,Coffee Shop
-281,20312,Coffee Shop
-282,20312,Café
-283,20312,Park
-284,20312,Coffee Shop
-285,20312,Café
-286,20312,Café
-287,20312,Pool Hall
-288,20312,Pizza Place
-289,20312,Greek Restaurant
-290,20312,Historic Site
-291,20312,Café
-292,20312,Café
-293,20312,Café
-294,20313,Pizza Place
-295,20313,Park
-296,20313,Park
-297,20313,Park
-298,20313,Park
-299,20313,General Entertainment
-300,20313,Café
-301,20313,Plaza
-302,20314,Café
-303,20314,Recreation Center
-304,20314,Park
-305,20314,Café
-306,20314,Café
-307,20335,Playground
-308,20335,Coffee Shop
-309,20335,Art Gallery
-310,20335,Recreation Center
-311,20335,Historic Site
-312,20335,Art Gallery
-313,20335,Dog Run
-314,20335,Garden
-315,20335,Park
-316,20335,History Museum
-317,20335,Pool
-318,20335,Coffee Shop
-319,20335,Indie Movie Theater
-320,20335,Café
-321,20335,Café
-322,20335,Coffee Shop
-323,20335,Art Gallery
-324,20335,Café
-325,20335,Café
-326,20335,Café
-327,20335,Coffee Shop
-328,20335,Plaza
-329,20335,Café
-330,20335,Café
-331,20335,Movie Theater
-332,20335,Café
-333,20335,Café
-334,20335,Café
-335,20335,Café
-336,20336,Café
-337,20336,Café
-338,20336,Italian Restaurant
-339,20336,Garden
-340,20336,Tennis Stadium
-341,20359,Café
-342,20359,Grocery Store
-343,20359,Pizza Place
-344,20359,Café
-345,20359,Café
-346,20359,Coffee Shop
-347,20359,Café
-348,20359,Coffee Shop
-349,20359,Café
-350,20359,Plaza
-351,20359,Café
-352,20359,Pool
-353,20359,General Entertainment
-354,20359,Café
-355,20359,Coffee Shop
-356,20359,Café
-357,20359,Café
-358,20359,Café
-359,20359,Café
-360,20359,Café
-361,20359,Café
-362,20359,Food Court
-363,20359,Café
-364,20359,Art Gallery
-365,20359,Breakfast Spot
-366,20359,Café
-367,20359,Café
-368,20359,Café
-369,20360,Park
-370,20360,Café
-371,20360,Café
-372,20360,Café
-373,20360,Coffee Shop
-374,20360,Bakery
-375,20360,Café
-376,20360,Park
-377,20360,Garden Center
-378,20360,Pizza Place
-379,20360,Garden
-380,20360,Coffee Shop
-381,20360,Pizza Place
-382,20360,Café
-383,20360,Park
-384,20360,Park
-385,20360,Cafeteria
-386,20360,Park
-387,20360,Exhibit
-388,20360,Garden
-389,20360,Art Gallery
-390,20360,Playground
-391,20360,Art Gallery
-392,20360,Café
-393,20360,Trail
-394,20360,General Entertainment
-395,20360,Café
-396,20360,Café
-397,20360,Café
-398,20361,Park
-399,20361,Italian Restaurant
-400,20361,Café
-401,20361,Recreation Center
-402,20361,Trail
-403,20361,Pizza Place
-404,20361,General Entertainment
-405,20361,Coffee Shop
-406,20361,Café
-407,20361,Café
-408,20361,Pizza Place
-409,20361,Café
-410,20384,Park
-411,20384,Pizza Place
-412,20416,Café
-413,20416,Café
-414,20416,Playground
-415,20416,Park
-416,20416,Design Studio
-417,20416,Café
-418,20416,Café
-419,20416,Café
-420,20416,Japanese Restaurant
-421,20416,Dog Run
-422,20416,Bridge
-423,20416,Park
-424,20416,Breakfast Spot
-425,20416,Café
-426,20416,Furniture / Home Store
-427,20416,Park
-428,20416,Café
-429,20416,Vegetarian / Vegan Restaurant
-430,20416,Café
-431,20416,Park
-432,20416,General Entertainment
-433,20416,Theme Park
-434,20416,Park
-435,20416,Café
-436,20416,Coffee Shop
-437,20416,Trail
-438,20416,General Entertainment
-439,20416,Café
-440,20424,Coffee Shop
-441,20424,Café
-442,20424,Playground
-443,20424,Soccer Field
-444,20424,Pizza Place
-445,20424,Café
-446,20424,Café
-447,20424,Café
-448,20424,Café
-449,20424,Art Gallery
-450,20424,Dog Run
-451,20424,Breakfast Spot
-452,20424,Café
-453,20424,Café
-454,20425,Café
-455,20425,Pizza Place
-456,20425,Café
-457,20425,Food Court
-458,20425,Food Court
-459,20425,Café
-460,20425,Café
-461,20425,Café
-462,20425,Park
-463,20425,Playground
-464,20451,Playground
-465,20451,Park
-466,20451,Park
-467,20451,Playground
-468,20451,Park
-469,20451,Park
-470,20451,Café
-471,20451,Café
-472,20451,Park
-473,20466,Café
-474,20466,Café
-475,20466,Dance Studio
-476,20466,Café
-477,20466,Park
-478,20466,Coffee Shop
-479,20466,Café
-480,20466,Café
-481,20466,Café
-482,20466,Café
-483,20466,Café
-484,20466,Park
-485,20466,Playground
-486,20466,Park
-487,20466,Café
-488,20466,Café
-489,20466,Café
-490,20466,Café
-491,20466,Café
-492,20466,Café
-493,20466,Café
-494,20466,Café
-495,20466,Café
-496,20466,Coffee Shop
-497,20466,Pool Hall
-498,20492,Pizza Place
-499,20492,Dessert Shop
-500,20492,Café
-501,20492,Park
-502,20492,Dessert Shop
-503,20492,Pizza Place
-504,20492,Museum
-505,20492,Plaza
-506,20492,Dessert Shop
-507,20492,Italian Restaurant
-508,20492,Coffee Shop
-509,20492,Park
-510,20492,Playground
-511,20492,Park
-512,20492,Indie Movie Theater
-513,20492,Park
-514,20492,History Museum
-515,20492,Sports Club
-516,20492,Pizza Place
-517,20492,Coffee Shop
-518,20492,Monument / Landmark
-519,20492,Museum
-520,20492,Pizza Place
-521,20492,Café
-522,20492,Café
-523,20492,Café
-524,20492,Café
-525,20492,Cheese Shop
-526,20492,Café
-527,20492,Italian Restaurant
-528,20493,Breakfast Spot
-529,20493,Café
-530,20493,Café
-531,20493,Lake
-532,20493,Historic Site
-533,20493,Café
-534,20493,Park
-535,20493,General Entertainment
-536,20493,Café
-537,20493,Café
-538,20493,Café
-539,20493,Café
-540,20493,Café
-541,20493,Pizza Place
-542,20493,Art Gallery
-543,20493,Garden
-544,20493,Playground
-545,20493,Dog Run
-546,20493,Café
-547,20493,Pizza Place
-548,20493,Café
-549,20493,Turkish Restaurant
-550,20493,Deli / Bodega
-551,20493,Café
-552,20493,Café
-553,20493,Café
-554,20493,Café
-555,20495,Café
-556,20495,Café
-557,20495,Café
-558,20495,Café
-559,20495,Café
-560,20495,Café
-561,20495,Playground
-562,20495,Car Wash
-563,20495,Café
-564,20495,Café
-565,20495,Café
-566,20495,Café
-567,20495,General Entertainment
-568,20495,Café
-569,20495,Café
-570,20495,Pizza Place
-571,20495,Café
-572,20495,Pizza Place
-573,20495,Pizza Place
-574,20495,Café
-575,20495,Pizza Place
-576,20495,Coffee Shop
-577,20495,Café
-578,20495,Coffee Shop
-579,20495,Art Gallery
-580,20495,General Entertainment
-581,20495,Café
-582,20495,Café
-583,20504,Café
-584,20504,Beach
-585,20504,Pizza Place
-586,20504,Café
-587,20504,Pizza Place
-588,20504,Café
-589,20504,Café
-590,20518,Coffee Shop
-591,20518,Fast Food Restaurant
-592,20518,Café
-593,20518,Coffee Shop
-594,20518,Café
-595,20518,Art Gallery
-596,20518,Coffee Shop
-597,20518,Pool Hall
-598,20518,General Entertainment
-599,20518,Café
-600,20518,Café
-601,20518,Café
-602,20518,Café
-603,20518,Café
-604,20518,Indie Movie Theater
-605,20518,Pizza Place
-606,20518,Café
-607,20518,Café
-608,20518,Café
-609,20518,Café
-610,20518,Café
-611,20518,Café
-612,20518,Pizza Place
-613,20518,Café
-614,20519,Café
-615,20519,Park
-616,20519,Water Park
-617,20519,General Entertainment
-618,20519,Café
-619,20519,Public Art
-620,20519,Plaza
-621,20519,Café
-622,20519,Café
-623,20519,General Entertainment
-624,20519,Café
-625,20519,Art Gallery
-626,20519,Park
-627,20519,Recreation Center
-628,20519,Coffee Shop
-629,20519,Coffee Shop
-630,20519,Cafeteria
-631,20519,Café
-632,20519,General Entertainment
-633,20519,General Entertainment
-634,20520,Coffee Shop
-635,20520,Park
-636,20520,Outdoor Event Space
-637,20520,Café
-638,20520,Café
-639,20520,Park
-640,20520,Memorial Site
-641,20520,Vegetarian / Vegan Restaurant
-642,20520,Café
-643,20520,Falafel Restaurant
-644,20520,Playground
-645,20520,Playground
-646,20520,Fish & Chips Shop
-647,20520,Pizza Place
-648,20520,Café
-649,20521,Other Great Outdoors
-650,20521,Dog Run
-651,20521,Athletics & Sports
-652,20521,Playground
-653,20521,Soccer Field
-654,20521,Recreation Center
-655,20521,Café
-656,20521,Café
-657,20521,Café
-658,20521,Deli / Bodega
-659,20534,Café
-660,20534,Café
-661,20534,Beach
-662,20534,Middle Eastern Restaurant
-663,20534,Park
-664,20534,Playground
-665,20534,Pizza Place
-666,20534,City Hall
-667,20534,Café
-668,20534,Café
-669,20534,Café
-670,20534,Café
-671,20534,Café
-672,20534,Café
-673,20534,Café
-674,20534,Coffee Shop
-675,20534,Café
-676,20534,Café
-677,20534,Coffee Shop
-678,20534,Pizza Place
-679,20534,Beach
-680,20534,Café
-681,20534,Café
-682,20534,Café
-683,20534,Café
-684,20534,Pizza Place
-685,20534,Café
-686,20534,Café
-687,20534,Café
-688,20535,Bakery
-689,20535,Pool
-690,20535,Soccer Field
-691,20535,Pizza Place
-692,20535,Playground
-693,20536,Café
-694,20536,Coffee Shop
-695,20536,Car Wash
-696,20536,Indoor Play Area
-697,20536,Café
-698,20536,Café
-699,20536,Café
-700,20536,Café
-701,20571,Pool
-702,20571,Playground
-703,20571,Pizza Place
-704,20571,Garden
-705,20571,Stadium
-706,20571,Café
-707,20571,Soccer Field
-708,20571,Park
-709,20571,Pool
-710,20571,Café
-711,20571,Bridge
-712,20571,Park
-713,20571,Pizza Place
-714,20571,Café
-715,20571,Park
-716,20571,Café
-717,20571,Bar
-718,20571,Bakery
-719,20571,Coffee Shop
-720,20571,Park
-721,20571,Pizza Place
-722,20571,Coffee Shop
-723,20571,General Entertainment
-724,20571,Strip Club
-725,20571,Café
-726,20571,Café
-727,20571,Café
-728,20571,Café
-729,20571,Café
-730,20592,Café
-731,20592,Café
-732,20592,Coffee Shop
-733,20592,Thai Restaurant
-734,20592,Trail
-735,20592,Soccer Field
-736,20592,Supermarket
-737,20592,Gym
-738,20592,Café
-739,20592,Café
-740,20592,Café
-741,20592,Pizza Place
-742,20592,Café
-743,20592,Café
-744,20592,Café
-745,20592,Pizza Place
-746,20592,Café
-747,20592,Soccer Field
-748,20592,Recreation Center
-749,20592,Café
-750,20592,General Entertainment
-751,20592,Soccer Field
-752,20592,Playground
-753,20592,Food Court
-754,20592,Park
-755,20592,Park
-756,20592,Playground
-757,20592,General Entertainment
-758,20592,Café
-759,20612,Coffee Shop
-760,20612,Coffee Shop
-761,20612,Art Gallery
-762,20612,Park
-763,20612,Bakery
-764,20612,Café
-765,20612,Café
-766,20612,Coffee Shop
-767,20612,Café
-768,20612,Street Art
-769,20612,Strip Club
-770,20612,Park
-771,20612,Café
-772,20612,Café
-773,20612,Café
-774,20612,Italian Restaurant
-775,20612,Café
-776,20612,Pizza Place
-777,20612,Gastropub
-778,20612,Bar
-779,20612,Café
-780,20612,Café
-781,20612,Art Gallery
-782,20612,Movie Theater
-783,20612,Café
-784,20612,Café
-785,20612,Café
-786,20612,Pizza Place
-787,20612,Café
-788,20612,Café
-789,20665,Café
-790,20665,Pub
-791,20665,Café
-792,20665,Art Gallery
-793,20665,Café
-794,20665,Bridge
-795,20665,Bridge
-796,20665,Coffee Shop
-797,20665,Café
-798,20665,Park
-799,20665,Pizza Place
-800,20665,Art Gallery
-801,20665,Café
-802,20665,Café
-803,20665,Café
-804,20665,Coffee Shop
-805,20665,Café
-806,20665,Café
-807,20665,Exhibit
-808,20665,Café
-809,20665,Café
-810,20665,Café
-811,20665,Art Gallery
-812,20665,Café
-813,20665,Pub
-814,20665,Café
-815,20665,General Entertainment
-816,20665,Café
-817,20665,Café
-818,20722,Café
-819,20722,Park
-820,20722,Pizza Place
-821,20722,Café
-822,20722,Park
-823,20722,Flower Shop
-824,20722,Café
-825,20722,Café
-826,20722,Café
-827,20752,Pizza Place
-828,20760,Café
-829,20760,Café
-830,20760,Art Gallery
-831,20760,Park
-832,20760,Park
-833,20760,Café
-834,20760,Café
-835,20760,Café
-836,20760,History Museum
-837,20760,Park
-838,20760,Coffee Shop
-839,20760,General Entertainment
-840,20760,Café
-841,20760,Cafeteria
-842,20760,General Entertainment
-843,20760,Café
-844,20760,Café
-845,20760,Coffee Shop
-846,20760,Asian Restaurant
-847,20760,Café
-848,20760,Pizza Place
-849,20760,Coffee Shop
-850,20760,Coffee Shop
-851,20760,Performing Arts Venue
-852,20760,Café
-853,20760,Café
-854,20760,Café
-855,20760,Café
-856,20760,Public Art
-857,20760,General Entertainment
-858,20765,Movie Theater
-859,20765,Indie Movie Theater
-860,20765,Café
-861,20765,Café
-862,20765,Café
-863,20765,Coffee Shop
-864,20765,Coffee Shop
-865,20765,Italian Restaurant
-866,20765,Movie Theater
-867,20765,Café
-868,20765,Multiplex
-869,20765,Playground
-870,20765,Café
-871,20765,Food Court
-872,20765,Coffee Shop
-873,20765,Movie Theater
-874,20765,Café
-875,20765,Movie Theater
-876,20765,Café
-877,20765,Food Court
-878,20765,Café
-879,20765,Café
-880,20765,Playground
-881,20765,Café
-882,20765,Playground
-883,20765,Art Gallery
-884,20765,Dessert Shop
-885,20765,General Entertainment
-886,20765,General Entertainment
-887,20766,Café
-888,20766,Playground
-889,20766,Playground
-890,20766,Recreation Center
-891,20766,Recreation Center
-892,20766,Dessert Shop
-893,20766,Café
-894,20766,General Entertainment
-895,20766,Pizza Place
-896,20766,Park
-897,20768,Trail
-898,20824,Park
-899,20824,Playground
-900,20824,Park
-901,20824,Sculpture Garden
-902,20824,Café
-903,20824,Coffee Shop
-904,20824,Grocery Store
-905,20824,Park
-906,20824,Café
-907,20824,River
-908,20824,Plaza
-909,20824,Café
-910,20824,Café
-911,20824,Pizza Place
-912,20824,Pizza Place
-913,20824,Café
-914,20824,Café
-915,20824,Café
-916,20824,Art Gallery
-917,20824,Garden
-918,20824,Soccer Field
-919,20824,Art Gallery
-920,20824,Art Gallery
-921,20824,Pizza Place
-922,20824,Pool Hall
-923,20824,Coffee Shop
-924,20824,Café
-925,20824,Café
-926,20824,Café
-927,20842,Beach
-928,20842,Park
-929,20842,Pizza Place
-930,20842,Recreation Center
-931,20842,Café
-932,20842,Café
-933,20842,Beach
-934,20842,Café
-935,20842,Surf Spot
-936,20842,Beach
-937,20858,Café
-938,20858,Café
-939,20858,Plaza
-940,20858,Café
-941,20858,Café
-942,20858,General Entertainment
-943,20858,Pizza Place
-944,20858,Park
-945,20858,Playground
-946,20858,Park
-947,20858,Park
-948,20858,Park
-949,20858,Café
-950,20858,Café
-951,20858,Pizza Place
-952,20858,Café
-953,20858,Trail
-954,20858,Café
-955,20858,Café
-956,20858,Café
-957,20858,Café
-958,20858,Café
-959,20858,Café
-960,20858,Plaza
-961,20858,Café
-962,20858,Café
-963,20858,Coffee Shop
-964,20858,Coffee Shop
-965,20858,General Entertainment
-966,20858,Café
-967,20861,River
-968,20861,Bakery
-969,20861,Playground
-970,20861,Café
-971,20861,Dog Run
-972,20861,River
-973,20861,Trail
-974,20861,Café
-975,20861,Pizza Place
-976,20861,Café
-977,20861,Café
-978,20861,Playground
-979,20861,Playground
-980,20861,Café
-981,20861,Café
-982,20861,Café
-983,20861,Café
-984,20861,Café
-985,20861,Garden
-986,20861,General Entertainment
-987,20861,General Entertainment
-988,20861,Café
-989,20861,Café
-990,20861,Café
-991,20861,Café
-992,20861,Park
-993,20861,Park
-994,20861,Café
-995,20879,Café
-996,20879,Coffee Shop
-997,20879,Café
-998,20879,Recreation Center
-999,20879,Pizza Place
-1000,20879,Café
-1001,20879,Café
-1002,20879,Pizza Place
-1003,20879,Café
-1004,20879,Italian Restaurant
-1005,20879,Café
-1006,20879,Café
-1007,20879,Café
-1008,20879,Cricket Ground
-1009,20879,Café
-1010,20879,Café
-1011,20879,Football Stadium
-1012,20879,Café
-1013,20879,Café
-1014,20879,Café
-1015,20879,Café
-1016,20879,Café
-1017,20879,Pizza Place
-1018,20879,General Entertainment
-1019,20879,Pizza Place
-1020,20879,Café
-1021,20879,Indie Movie Theater
-1022,20879,Café
-1023,20879,Café
-1024,20881,Café
-1025,20881,Pizza Place
-1026,20881,Coffee Shop
-1027,20881,Café
-1028,20881,Café
-1029,20881,Café
-1030,20881,Pizza Place
-1031,20881,Park
-1032,20895,Pizza Place
-1033,20895,Café
-1034,20895,Café
-1035,20895,Pizza Place
-1036,20895,Food & Drink Shop
-1037,20895,Café
-1038,20895,Park
-1039,20895,Café
-1040,20895,Café
-1041,20895,Café
-1042,20895,Café
-1043,20895,Café
-1044,20895,Café
-1045,20895,Café
-1046,20895,Café
-1047,20895,Café
-1048,20895,General Entertainment
-1049,20895,Park
-1050,20895,Café
-1051,20895,Café
-1052,20895,Art Gallery
-1053,20895,Bowling Green
-1054,20895,Café
-1055,20895,Café
-1056,20895,Soccer Field
-1057,20895,Dog Run
-1058,20895,Café
-1059,20895,Café
-1060,20895,Café
-1061,20895,Coffee Shop
-1062,20918,Coffee Shop
-1063,20918,Café
-1064,20918,French Restaurant
-1065,20918,Café
-1066,20918,Bakery
-1067,20918,Café
-1068,20918,Café
-1069,20918,Coffee Shop
-1070,20918,Park
-1071,20918,Café
-1072,20918,Café
-1073,20918,Park
-1074,20918,Breakfast Spot
-1075,20918,Art Gallery
-1076,20918,Italian Restaurant
-1077,20918,Café
-1078,20918,Bridge
-1079,20918,Café
-1080,20918,Art Gallery
-1081,20918,Café
-1082,20918,Café
-1083,20918,Art Gallery
-1084,20918,Café
-1085,20918,Café
-1086,20918,Pizza Place
-1087,20918,Bakery
-1088,20918,Café
-1089,20918,Café
-1090,20918,Café
-1091,20919,Café
-1092,20919,Bakery
-1093,20919,Coffee Shop
-1094,20919,Park
-1095,20919,Ice Cream Shop
-1096,20919,Coffee Shop
-1097,20919,Café
-1098,20919,Park
-1099,20919,Pizza Place
-1100,20919,Playground
-1101,20919,Park
-1102,20919,Coffee Shop
-1103,20919,Café
-1104,20919,Football Stadium
-1105,20919,Café
-1106,20919,Bowling Green
-1107,20919,Art Gallery
-1108,20919,Park
-1109,20919,Sandwich Place
-1110,20919,Café
-1111,20919,Sports Club
-1112,20919,Park
-1113,20919,Trail
-1114,20919,Pizza Place
-1115,20919,Pizza Place
-1116,20919,Café
-1117,20919,Café
-1118,20919,Bar
-1119,20923,Café
-1120,20923,Café
-1121,20923,Historic Site
-1122,20923,Bowling Green
-1123,20923,Pizza Place
-1124,20923,Café
-1125,20923,Park
-1126,20923,Park
-1127,20923,Pizza Place
-1128,20958,Coffee Shop
-1129,20958,Café
-1130,20958,Café
-1131,20958,Italian Restaurant
-1132,20958,Café
-1133,20958,Café
-1134,20958,Café
-1135,20958,Park
-1136,20958,General Entertainment
-1137,20958,Soccer Field
-1138,20958,Playground
-1139,20958,Coffee Shop
-1140,20958,Art Gallery
-1141,20958,Café
-1142,20958,Playground
-1143,20958,General Entertainment
-1144,21002,Café
-1145,21002,Café
-1146,21002,Café
-1147,21002,Playground
-1148,21002,Playground
-1149,21002,Art Gallery
-1150,21002,Café
-1151,21002,Café
-1152,21002,Café
-1153,21002,Park
-1154,21002,Café
-1155,21002,Polish Restaurant
-1156,21002,Café
-1157,21002,Pizza Place
-1158,21002,Café
-1159,21003,Park
-1160,21003,Café
-1161,21003,Park
-1162,21003,Playground
-1163,21003,Coffee Shop
-1164,21003,Park
-1165,21003,Café
-1166,21003,Café
-1167,21003,Park
-1168,21003,Café
-1169,21003,Park
-1170,21003,Playground
-1171,21003,Coffee Shop
-1172,21003,Park
-1173,21003,Café
-1174,21003,Café
-1175,21123,Deli / Bodega
-1176,21123,Pizza Place
-1177,21123,Café
-1178,21123,Café
-1179,21123,Café
-1180,21123,Café
-1181,21123,Café
-1182,21123,Beach
-1183,21123,Beach
-1184,21123,Café
-1185,21123,Coffee Shop
-1186,21123,Café
-1187,21123,Café
-1188,21123,Coffee Shop
-1189,21123,Pizza Place
-1190,21123,Café
-1191,21123,Café
-1192,21123,Café
-1193,21123,Café
-1194,21123,Café
-1195,21123,Café
-1196,21123,Café
-1197,21123,Playground
-1198,21123,Café
-1199,21123,Café
-1200,21123,Park
-1201,21123,Garden
-1202,21123,Garden
-1203,21123,General Entertainment
-1204,21123,Pizza Place
-1205,21124,Playground
-1206,21124,Sports Club
-1207,21124,Playground
-1208,21143,Café
-1209,21143,Café
-1210,21143,Cupcake Shop
-1211,21143,Pizza Place
-1212,21143,Café
-1213,21143,Café
-1214,21143,Art Gallery
-1215,21143,Coffee Shop
-1216,21143,Coffee Shop
-1217,21143,Art Gallery
-1218,21143,Café
-1219,21143,Hookah Bar
-1220,21143,Café
-1221,21143,Café
-1222,21143,Pizza Place
-1223,21143,Café
-1224,21143,Café
-1225,21143,Bubble Tea Shop
-1226,21143,Coffee Shop
-1227,21143,Art Gallery
-1228,21143,Café
-1229,21143,Garden
-1230,21143,Café
-1231,21143,Café
-1232,21143,Coffee Shop
-1233,21143,Café
-1234,21143,Café
-1235,21143,Café
-1236,21143,Café
-1237,21144,Park
-1238,21144,Café
-1239,21144,Café
-1240,21144,Bike Shop
-1241,21144,Indie Movie Theater
-1242,21144,Garden
-1243,21144,Café
-1244,21144,Italian Restaurant
-1245,21144,Pizza Place
-1246,21144,Movie Theater
-1247,21144,Café
-1248,21144,Café
-1249,21144,Café
-1250,21144,Café
-1251,21144,Multiplex
-1252,21144,Coffee Shop
-1253,21144,Coffee Shop
-1254,21144,Café
-1255,21176,Playground
-1256,21176,Pizza Place
-1257,21176,Café
-1258,21176,Café
-1259,21176,Café
-1260,21176,Coffee Shop
-1261,21176,Café
-1262,21176,General Entertainment
-1263,21176,Café
-1264,21176,Pizza Place
-1265,21176,Bakery
-1266,21176,Café
-1267,21176,Café
-1268,21176,Café
-1269,21176,Café
-1270,21176,Playground
-1271,21176,Playground
-1272,21205,Café
-1273,21205,Café
-1274,21205,Café
-1275,21205,Café
-1276,21205,Pizza Place
-1277,21205,Park
-1278,21205,Park
-1279,21205,Park
-1280,21205,Trail
-1281,21205,Pizza Place
-1282,21205,Recreation Center
-1283,21205,Café
-1284,21319,Café
-1285,21319,Café
-1286,21319,Coffee Shop
-1287,21319,Pizza Place
-1288,21319,Pizza Place
-1289,21319,Pizza Place
-1290,21319,Art Studio
-1291,21319,Park
-1292,21319,Park
-1293,21319,Exhibit
-1294,21319,Art Gallery
-1295,21319,Café
-1296,21319,Coffee Shop
-1297,21319,Playground
-1298,21319,Pizza Place
-1299,21319,Café
-1300,21319,Café
-1301,21319,Café
-1302,21319,Playground
-1303,21319,Historic Site
-1304,21319,Park
-1305,21319,Café
-1306,21319,Café
-1307,21319,Art Gallery
-1308,21319,Café
-1309,21319,Performing Arts Venue
-1310,21319,Dog Run
-1311,21319,Playground
-1312,21319,Café
-1313,21319,Café
-1314,21328,Café
-1315,21328,Pizza Place
-1316,21328,Café
-1317,21328,Café
-1318,21328,Pizza Place
-1319,21328,Garden
-1320,21328,Park
-1321,21328,General Entertainment
-1322,21328,General Entertainment
-1323,21328,Café
-1324,21328,Café
-1325,21328,Café
-1326,21328,Historic Site
-1327,21328,Café
-1328,21328,Café
-1329,21328,Café
-1330,21328,Café
-1331,21328,Café
-1332,21328,Café
-1333,21328,Café
-1334,21329,Park
-1335,21329,Café
-1336,21385,Dog Run
-1337,21385,Park
-1338,21385,Park
-1339,21385,Soccer Field
-1340,21385,Park
-1341,21385,Park
-1342,21385,Tennis Stadium
-1343,21385,Soccer Field
-1344,21385,Café
-1345,21385,Café
-1346,21385,Café
-1347,21385,Pool Hall
-1348,21385,Garden
-1349,21385,Café
-1350,21385,Café
-1351,21385,Garden
-1352,21385,Pool
-1353,21385,Pizza Place
-1354,21385,Café
-1355,21385,Café
-1356,21385,Park
-1357,21385,Café
-1358,21576,Garden
-1359,21576,Pizza Place
-1360,21576,Café
-1361,21576,Park
-1362,21576,Coffee Shop
-1363,21576,Playground
-1364,21576,Playground
-1365,21576,Cricket Ground
-1366,21576,Café
-1367,21576,Café
-1368,21576,Café
-1369,21576,Dog Run
-1370,21576,Café
-1371,21576,Coffee Shop
-1372,21576,Café
-1373,21576,Café
-1374,21576,Café
-1375,21576,Italian Restaurant
-1376,21576,Café
-1377,21576,Pizza Place
-1378,21576,Café
-1379,21576,Café
-1380,21576,Café
-1381,21576,Café
-1382,21576,Garden
-1383,21576,Pizza Place
-1384,21576,Café
-1385,21576,Park
-1386,21576,Coffee Shop
-1387,21576,Playground
-1388,21576,Playground
-1389,21576,Cricket Ground
-1390,21576,Café
-1391,21576,Café
-1392,21576,Café
-1393,21576,Dog Run
-1394,21576,Café
-1395,21576,Coffee Shop
-1396,21576,Café
-1397,21576,Café
-1398,21576,Café
-1399,21576,Italian Restaurant
-1400,21576,Café
-1401,21576,Pizza Place
-1402,21576,Café
-1403,21576,Café
-1404,21576,Café
-1405,21576,Café
-1406,21577,Pizza Place
-1407,21577,Breakfast Spot
-1408,21577,Café
-1409,21577,Café
-1410,21577,Park
-1411,21577,Park
-1412,21577,Garden
-1413,21577,General Entertainment
-1414,21577,Pizza Place
-1415,21577,Dog Run
-1416,21618,Café
-1417,21618,Café
-1418,21618,Pizza Place
-1419,21618,Café
-1420,21618,Café
-1421,21618,Café
-1422,21618,Dog Run
-1423,21618,Café
-1424,21618,Pizza Place
-1425,21618,Pizza Place
-1426,21618,Pizza Place
-1427,21618,Coffee Shop
-1428,21618,Coffee Shop
-1429,21629,Coffee Shop
-1430,21629,Shopping Mall
-1431,21629,Coffee Shop
-1432,21629,Shopping Mall
-1433,21629,Coffee Shop
-1434,21629,Coffee Shop
-1435,21629,Coffee Shop
-1436,21629,Plaza
-1437,21629,Café
-1438,21629,Coffee Shop
-1439,21629,Coffee Shop
-1440,21629,Juice Bar
-1441,21629,Food Court
-1442,21629,Coffee Shop
-1443,21629,Movie Theater
-1444,21629,Shopping Mall
-1445,21629,Coffee Shop
-1446,21629,Café
-1447,21629,Library
-1448,21629,Donut Shop
-1449,21629,Plaza
-1450,21629,Coffee Shop
-1451,21629,Bar
-1452,21629,Multiplex
-1453,21629,Pub
-1454,21629,Coffee Shop
-1455,21629,Food Court
-1456,21629,General Entertainment
-1457,21629,Café
-1458,21629,Coffee Shop
-1459,21637,Radio Station
-1460,21637,Pizza Place
-1461,21637,Pizza Place
-1462,21637,Recreation Center
-1463,21637,Italian Restaurant
-1464,21637,Café
-1465,21637,Park
-1466,21637,Bridge
-1467,21637,Pool
-1468,21637,Café
-1469,21637,Café
-1470,21637,Café
-1471,21637,Café
-1472,21637,Café
-1473,21637,Café
-1474,21637,Café
-1475,21637,Café
-1476,21637,Café
-1477,21637,Café
-1478,21637,Café
-1479,21637,Café
-1480,21637,Café
-1481,21637,Café
-1482,21637,Pizza Place
-1483,21666,Café
-1484,21666,Café
-1485,21666,Beach
-1486,21666,Café
-1487,21666,Café
-1488,21666,Café
-1489,21666,Café
-1490,21666,Art Gallery
-1491,21666,Playground
-1492,21666,Café
-1493,21666,Café
-1494,21666,Café
-1495,21666,Park
-1496,21666,Sports Club
-1497,21666,Playground
-1498,21666,Trail
-1499,21666,Playground
-1500,21666,Football Stadium
-1501,21666,Playground
-1502,21720,Café
-1503,21720,Café
-1504,21720,Pizza Place
-1505,21720,Café
-1506,21720,Pizza Place
-1507,21720,Café
-1508,21720,Café
-1509,21720,Coffee Shop
-1510,21720,Pool
-1511,21720,Park
-1512,21720,Playground
-1513,21720,Café
-1514,21721,Park
-1515,21721,Trail
-1516,21721,Park
-1517,21721,Park
-1518,21730,Café
-1519,21730,Café
-1520,21730,Plaza
-1521,21730,Café
-1522,21730,Café
-1523,21730,Café
-1524,21730,Café
-1525,21730,Café
-1526,21730,Café
-1527,21730,Art Gallery
-1528,21730,Park
-1529,21730,Café
-1530,21730,Café
-1531,21730,Café
-1532,21730,Café
-1533,21730,Café
-1534,21730,Coffee Shop
-1535,21730,Café
-1536,21730,Bowling Green
-1537,21730,Café
-1538,21730,Café
-1539,21730,Coffee Shop
-1540,21730,Café
-1541,21730,Pizza Place
-1542,21730,Café
-1543,21730,Café
-1544,21730,Café
-1545,21730,Café
-1546,21730,Café
-1547,21734,Café
-1548,21734,Fast Food Restaurant
-1549,21734,Café
-1550,21734,Art Gallery
-1551,21734,Café
-1552,21734,Café
-1553,21734,Café
-1554,21734,Sports Club
-1555,21734,Planetarium
-1556,21734,Café
-1557,21734,Café
-1558,21734,Coffee Shop
-1559,21734,Café
-1560,21734,Café
-1561,21734,Café
-1562,21734,General Entertainment
-1563,21734,Café
-1564,21734,Café
-1565,21734,Pizza Place
-1566,21734,Football Stadium
-1567,21748,Café
-1568,21748,Café
-1569,21748,Bakery
-1570,21748,Park
-1571,21748,Coffee Shop
-1572,21748,Pizza Place
-1573,21748,Café
-1574,21748,Pizza Place
-1575,21748,Café
-1576,21748,Pier
-1577,21748,Coffee Shop
-1578,21748,Bridge
-1579,21748,Pizza Place
-1580,21748,Beach
-1581,21748,Playground
-1582,21748,Playground
-1583,21748,Beach
-1584,21748,Café
-1585,21748,Beach
-1586,21748,Coffee Shop
-1587,21748,Art Gallery
-1588,21748,Pizza Place
-1589,21748,Sports Club
-1590,21748,Beach
-1591,21748,Pizza Place
-1592,21748,General Entertainment
-1593,21837,Café
-1594,21837,Breakfast Spot
-1595,21837,Café
-1596,21837,Café
-1597,21837,Café
-1598,21837,Café
-1599,21837,Café
-1600,21837,Park
-1601,21837,Park
-1602,21837,Pizza Place
-1603,21837,Café
-1604,21837,Café
-1605,21837,Garden
-1606,21837,Café
-1607,21954,Bridge
-1608,21954,Coffee Shop
-1609,21954,Café
-1610,21954,Bridge
-1611,21954,Art Gallery
-1612,21954,Café
-1613,21954,Café
-1614,21954,Concert Hall
-1615,21954,Café
-1616,21954,Café
-1617,21954,Café
-1618,21954,Park
-1619,21954,Art Gallery
-1620,21954,Art Gallery
-1621,21954,Café
-1622,21954,Coffee Shop
-1623,21954,Café
-1624,21954,Café
-1625,21954,Café
-1626,21954,Café
-1627,21954,Café
-1628,21954,Café
-1629,21954,Café
-1630,21954,Café
-1631,21959,Café
-1632,21959,Playground
-1633,21959,Pool
-1634,21959,Park
-1635,21959,Playground
-1636,21959,Coffee Shop
-1637,21959,Café
-1638,21959,Café
-1639,22004,Café
-1640,22004,Coffee Shop
-1641,22004,Bakery
-1642,22004,Coffee Shop
-1643,22004,Café
-1644,22004,Office
-1645,22004,Pizza Place
-1646,22004,Café
-1647,22025,Pizza Place
-1648,22025,Café
-1649,22025,Café
-1650,22025,Pizza Place
-1651,22025,Café
-1652,22025,Café
-1653,22025,Coffee Shop
-1654,22025,Café
-1655,22025,Café
-1656,22025,Pizza Place
-1657,22025,Art Gallery
-1658,22025,Café
-1659,22025,Café
-1660,22025,Café
-1661,22025,Café
-1662,22025,Café
-1663,22025,Playground
-1664,22025,Café
-1665,22026,Zoo Exhibit
-1666,22026,Zoo
-1667,22026,Zoo Exhibit
-1668,22026,Zoo Exhibit
-1669,22026,Zoo Exhibit
-1670,22026,General Entertainment
-1671,22026,Park
-1672,22026,Zoo Exhibit
-1673,22026,Park
-1674,22026,Zoo Exhibit
-1675,22026,Zoo Exhibit
-1676,22026,Zoo Exhibit
-1677,22026,Zoo Exhibit
-1678,22026,Zoo Exhibit
-1679,22026,Zoo Exhibit
-1680,22026,Zoo Exhibit
-1681,22026,Hockey Arena
-1682,22026,Zoo Exhibit
-1683,22026,Park
-1684,22026,Zoo Exhibit
-1685,22026,Dog Run
-1686,22026,General Entertainment
-1687,22026,Garden
-1688,22026,Zoo Exhibit
-1689,22026,Sports Club
-1690,22026,Zoo Exhibit
-1691,22026,General Entertainment
-1692,22026,Café
-1693,22026,Sports Club
-1694,22026,Park
-1695,22029,Café
-1696,22029,Pizza Place
-1697,22029,Café
-1698,22029,Café
-1699,22029,Café
-1700,22029,Park
-1701,22029,Playground
-1702,22029,Park
-1703,22029,Sports Club
-1704,22029,Playground
-1705,22029,General Entertainment
-1706,22030,Café
-1707,22030,Café
-1708,22030,Playground
-1709,22030,Coffee Shop
-1710,22030,Pizza Place
-1711,22035,Pizza Place
-1712,22035,Café
-1713,22035,Italian Restaurant
-1714,22035,Café
-1715,22035,Café
-1716,22035,Café
-1717,22035,Café
-1718,22035,Pizza Place
-1719,22035,Pizza Place
-1720,22035,Pizza Place
-1721,22035,Bar
-1722,22095,Café
-1723,22095,General Entertainment
-1724,22095,Beach
-1725,22095,Coffee Shop
-1726,22095,Soccer Field
-1727,22095,Garden
-1728,22095,Café
-1729,22095,Café
-1730,22095,General Entertainment
-1731,22106,Park
-1732,22106,Pizza Place
-1733,22106,Park
-1734,22106,Park
-1735,22106,Coffee Shop
-1736,22106,Coffee Shop
-1737,22106,Pizza Place
-1738,22106,Playground
-1739,22106,Pool
-1740,22106,Café
-1741,22106,Café
-1742,22106,Café
-1743,22106,Café
-1744,22106,Café
-1745,22106,Deli / Bodega
-1746,22106,Café
-1747,22106,Pizza Place
-1748,22106,Café
-1749,22106,Italian Restaurant
-1750,22106,Café
-1751,22106,Café
-1752,22106,Café
-1753,22106,Café
-1754,22106,Italian Restaurant
-1755,22106,Café
-1756,22106,Coffee Shop
-1757,22106,Zoo Exhibit
-1758,22106,General Entertainment
-1759,22106,Café
-1760,22110,Café
-1761,22110,Park
-1762,22110,Park
-1763,22110,Breakfast Spot
-1764,22110,Park
-1765,22110,Sports Club
-1766,22110,Dog Run
-1767,22110,Sports Club
-1768,22110,Café
-1769,22110,Playground
-1770,22110,Playground
-1771,22110,Park
-1772,22110,Café
-1773,22110,Café
-1774,22110,Public Art
-1775,22110,Park
-1776,22110,Pizza Place
-1777,22158,Café
-1778,22158,Grocery Store
-1779,22158,Café
-1780,22158,Café
-1781,22158,Café
-1782,22158,Art Gallery
-1783,22158,Café
-1784,22158,Strip Club
-1785,22158,Café
-1786,22158,Coffee Shop
-1787,22158,Café
-1788,22158,Pizza Place
-1789,22158,Theme Park
-1790,22158,Café
-1791,22158,Café
-1792,22158,Art Gallery
-1793,22158,Art Gallery
-1794,22158,Coffee Shop
-1795,22158,Café
-1796,22158,Café
-1797,22158,Café
-1798,22158,Café
-1799,22158,Art Gallery
-1800,22158,Playground
-1801,22158,Art Gallery
-1802,22158,Art Gallery
-1803,22158,Café
-1804,22158,Bar
-1805,22158,Café
-1806,22158,Café
-1807,22167,Café
-1808,22167,Café
-1809,22167,Café
-1810,22167,Café
-1811,22167,Café
-1812,22167,Café
-1813,22167,Coffee Shop
-1814,22167,Park
-1815,22167,Garden
-1816,22167,Café
-1817,22167,Café
-1818,22167,Café
-1819,22167,Exhibit
-1820,22167,Park
-1821,22167,Café
-1822,22167,Pizza Place
-1823,22167,General Entertainment
-1824,22167,General Entertainment
-1825,22167,Café
-1826,22167,Café
-1827,22167,Garden
-1828,22167,General Entertainment
-1829,22167,General Entertainment
-1830,22167,General Entertainment
-1831,22223,Beach
-1832,22223,Café
-1833,22223,Café
-1834,22223,Café
-1835,22223,Café
-1836,22223,Café
-1837,22223,Café
-1838,22223,Café
-1839,22223,Pizza Place
-1840,22223,Coffee Shop
-1841,22223,Park
-1842,22223,Café
-1843,22223,Deli / Bodega
-1844,22223,Art Gallery
-1845,22223,Café
-1846,22223,Café
-1847,22223,Café
-1848,22223,Garden
-1849,22223,Pizza Place
-1850,22223,Café
-1851,22223,Café
-1852,22223,Trail
-1853,22223,Café
-1854,22223,Playground
-1855,22223,Café
-1856,22223,Café
-1857,22223,Recreation Center
-1858,22223,Pizza Place
-1859,22223,General Entertainment
-1860,22299,Coffee Shop
-1861,22299,Café
-1862,22299,Café
-1863,22299,Coffee Shop
-1864,22299,Café
-1865,22299,Coffee Shop
-1866,22299,Pizza Place
-1867,22299,Coffee Shop
-1868,22299,Playground
-1869,22299,Café
-1870,22299,Vegetarian / Vegan Restaurant
-1871,22299,Café
-1872,22299,Wine Bar
-1873,22299,Café
-1874,22299,Café
-1875,22299,Café
-1876,22299,Café
-1877,22299,Café
-1878,22299,Café
-1879,22299,Coffee Shop
-1880,22299,Café
-1881,22299,Breakfast Spot
-1882,22299,Café
-1883,22299,Pizza Place
-1884,22299,Café
-1885,22299,Café
-1886,22299,Café
-1887,22299,Café
-1888,22302,Food Court
-1889,22302,Bridge
-1890,22302,Plaza
-1891,22302,Playground
-1892,22302,Park
-1893,22302,Bridge
-1894,22302,Café
-1895,22302,Café
-1896,22302,Coffee Shop
-1897,22302,Pizza Place
-1898,22302,Park
-1899,22302,Café
-1900,22302,Café
-1901,22302,Trail
-1902,22302,Café
-1903,22302,Café
-1904,22302,Café
-1905,22302,Café
-1906,22302,Café
-1907,22302,Park
-1908,22302,Café
-1909,22302,Café
-1910,22302,Bar
-1911,22302,Café
-1912,22302,Café
-1913,22302,Coffee Shop
-1914,22302,Art Gallery
-1915,22302,Café
-1916,22302,Café
-1917,22303,Café
-1918,22303,Café
-1919,22303,Café
-1920,22303,Garden
-1921,22303,Café
-1922,22303,Dessert Shop
-1923,22303,Coffee Shop
-1924,22303,Café
-1925,22303,Bridge
-1926,22303,Café
-1927,22303,Park
-1928,22303,Trail
-1929,22303,Bridge
-1930,22303,Pizza Place
-1931,22303,Café
-1932,22303,Café
-1933,22303,Café
-1934,22303,Pizza Place
-1935,22303,French Restaurant
-1936,22303,Australian Restaurant
-1937,22303,Café
-1938,22303,Café
-1939,22303,Coffee Shop
-1940,22303,Pool
-1941,22303,Italian Restaurant
-1942,22303,Café
-1943,22303,Coffee Shop
-1944,22303,Café
-1945,22303,Café
-1946,22303,Bakery
-1947,22304,Coffee Shop
-1948,22304,Café
-1949,22304,Park
-1950,22304,Plaza
-1951,22304,Pizza Place
-1952,22304,Café
-1953,22304,River
-1954,22304,Coffee Shop
-1955,22304,Art Gallery
-1956,22304,Bridge
-1957,22304,Coffee Shop
-1958,22304,Café
-1959,22304,Bridge
-1960,22304,Plaza
-1961,22304,Art Gallery
-1962,22304,Bar
-1963,22304,Café
-1964,22304,Café
-1965,22304,Café
-1966,22304,Café
-1967,22304,Café
-1968,22304,Café
-1969,22304,Hotel Bar
-1970,22304,Café
-1971,22304,Grocery Store
-1972,22304,Pool
-1973,22304,General Entertainment
-1974,22304,General Entertainment
-1975,22304,Café
-1976,22304,General Entertainment
-1977,22332,Coffee Shop
-1978,22332,Coffee Shop
-1979,22332,Italian Restaurant
-1980,22332,Café
-1981,22332,Park
-1982,22332,Garden
-1983,22332,Australian Restaurant
-1984,22332,American Restaurant
-1985,22332,History Museum
-1986,22332,Art Gallery
-1987,22332,Playground
-1988,22332,Café
-1989,22332,Theme Park
-1990,22332,Café
-1991,22332,Pizza Place
-1992,22332,Coffee Shop
-1993,22332,Theme Park
-1994,22332,Diner
-1995,22332,Café
-1996,22332,Gastropub
-1997,22332,Café
-1998,22332,Dessert Shop
-1999,22332,Café
-2000,22332,Café
-2001,22332,Café
-2002,22332,Historic Site
-2003,22332,Coffee Shop
-2004,22332,Café
-2005,22332,Bakery
-2006,22332,Café
-2007,22333,Park
-2008,22333,Café
-2009,22333,General Entertainment
-2010,22333,Zoo Exhibit
-2011,22333,Coffee Shop
-2012,22333,General Entertainment
-2013,22333,Park
-2014,22333,Historic Site
-2015,22333,Pizza Place
-2016,22333,General Entertainment
-2017,22333,Park
-2018,22333,Café
-2019,22333,General Entertainment
-2020,22333,Zoo Exhibit
-2021,22333,Coffee Shop
-2022,22333,General Entertainment
-2023,22333,Park
-2024,22333,Historic Site
-2025,22333,Pizza Place
-2026,22333,General Entertainment
-2027,22334,Playground
-2028,22334,Beach
-2029,22334,Café
-2030,22334,Café
-2031,22334,Restaurant
-2032,22334,Pizza Place
-2033,22334,Garden
-2034,22334,Tattoo Parlor
-2035,22334,Exhibit
-2036,22334,Memorial Site
-2037,22334,Park
-2038,22334,Café
-2039,22334,Café
-2040,22334,Burger Joint
-2041,22334,Italian Restaurant
-2042,22334,Café
-2043,22334,Playground
-2044,22334,Bar
-2045,22334,Surf Spot
-2046,22334,Park
-2047,22334,Soccer Field
-2048,22334,Pizza Place
-2049,22334,Historic Site
-2050,22334,Art Gallery
-2051,22334,Coffee Shop
-2052,22334,Breakfast Spot
-2053,22334,Café
-2054,22334,Italian Restaurant
-2055,22387,Café
-2056,22387,Café
-2057,22387,Bridge
-2058,22387,Café
-2059,22387,Café
-2060,22387,Café
-2061,22387,Café
-2062,22387,Pizza Place
-2063,22387,Park
-2064,22387,Café
-2065,22387,Garden
-2066,22387,Garden Center
-2067,22387,Playground
-2068,22387,Park
-2069,22387,Café
-2070,22387,Café
-2071,22387,Café
-2072,22387,Multiplex
-2073,22387,Café
-2074,22387,Pizza Place
-2075,22471,Café
-2076,22471,Café
-2077,22472,Playground
-2078,22496,Coffee Shop
-2079,22496,Café
-2080,22496,Café
-2081,22496,Theater
-2082,22496,Pizza Place
-2083,22496,Vegetarian / Vegan Restaurant
-2084,22496,Pizza Place
-2085,22496,Bar
-2086,22496,Pizza Place
-2087,22496,Playground
-2088,22496,Café
-2089,22496,Coffee Shop
-2090,22496,Café
-2091,22496,French Restaurant
-2092,22496,Café
-2093,22496,Café
-2094,22496,Italian Restaurant
-2095,22496,Coffee Shop
-2096,22496,Café
-2097,22496,Park
-2098,22496,Café
-2099,22496,Pizza Place
-2100,22496,Pizza Place
-2101,22496,Café
-2102,22496,Café
-2103,22496,Café
-2104,22496,Café
-2105,22496,Café
-2106,22534,Café
-2107,22534,Food Court
-2108,22559,Dog Run
-2109,22559,Pizza Place
-2110,22559,Café
-2111,22559,Nature Preserve
-2112,22559,Dog Run
-2113,22559,Pizza Place
-2114,22559,General Entertainment
-2115,22559,Dog Run
-2116,22559,Park
-2117,22559,Café
-2118,22559,General Entertainment
-2119,22559,Movie Theater
-2120,22559,Café
-2121,22559,Café
-2122,22707,Café
-2123,22707,Café
-2124,22743,General Entertainment
-2125,22743,Coffee Shop
-2126,22791,Park
-2127,22791,Café
-2128,22791,Café
-2129,22791,Playground
-2130,22791,Furniture / Home Store
-2131,22791,Park
-2132,22791,Park
-2133,22791,Café
-2134,22791,Pizza Place
-2135,22791,Deli / Bodega
-2136,22791,Pizza Place
-2137,22791,Café
-2138,22791,Café
-2139,22791,Park
-2140,22791,Bridge
-2141,22791,Indie Movie Theater
-2142,22791,Café
-2143,22791,Playground
-2144,22791,Café
-2145,22791,Café
-2146,22791,Café
-2147,22791,Café
-2148,22791,Pizza Place
-2149,22791,Art Gallery
-2150,22791,Cafeteria
-2151,22791,Art Gallery
-2152,22791,Zoo Exhibit
-2153,22791,Café
-2154,22791,Café
-2155,22791,Café
+ssc,category
+20002,Park
+20002,Park
+20002,Cultural Center
+20002,Coffee Shop
+20002,Café
+20002,Café
+20002,Pet Store
+20002,Park
+20002,Garden
+20002,Art Gallery
+20002,Café
+20002,Coffee Shop
+20002,Café
+20002,Coffee Shop
+20002,Café
+20002,Café
+20002,Café
+20002,Café
+20002,Café
+20002,Café
+20002,Art Gallery
+20002,Gym / Fitness Center
+20002,General Entertainment
+20002,Café
+20002,Art Gallery
+20002,Playground
+20002,Café
+20002,Café
+20003,Dog Run
+20003,Pizza Place
+20003,Sports Club
+20003,Playground
+20003,Café
+20017,Café
+20017,Café
+20017,Café
+20017,Playground
+20017,Sports Club
+20017,Pool
+20017,Park
+20017,Park
+20017,Café
+20017,Football Stadium
+20017,Café
+20017,Café
+20017,Breakfast Spot
+20017,Playground
+20017,Café
+20017,Café
+20017,Café
+20017,Café
+20017,Café
+20017,Café
+20017,Café
+20017,Playground
+20017,Lake
+20017,Café
+20033,Café
+20033,Coffee Shop
+20033,Park
+20033,Café
+20033,Park
+20033,Park
+20033,Historic Site
+20033,Café
+20033,Café
+20033,Café
+20033,Playground
+20065,Café
+20065,Café
+20065,Café
+20065,Café
+20065,Pizza Place
+20065,Coffee Shop
+20065,Park
+20065,Recreation Center
+20065,Café
+20065,Café
+20065,Café
+20065,Café
+20065,Café
+20065,Café
+20065,Café
+20065,Breakfast Spot
+20065,Art Museum
+20065,Art Gallery
+20065,Art Gallery
+20065,Dog Run
+20065,Art Gallery
+20065,Café
+20065,Theme Park
+20065,Café
+20065,Café
+20065,Café
+20065,Café
+20065,Coffee Shop
+20065,Café
+20074,Pizza Place
+20074,Park
+20074,Coffee Shop
+20074,Pizza Place
+20074,Coffee Shop
+20074,Café
+20074,Bridge
+20074,Park
+20074,Café
+20074,General Entertainment
+20074,Pizza Place
+20074,General Entertainment
+20074,Pizza Place
+20074,Café
+20074,Café
+20074,Pizza Place
+20074,Café
+20074,Café
+20074,Pool Hall
+20074,Café
+20074,Café
+20076,Pizza Place
+20076,Café
+20076,Café
+20076,Café
+20076,Café
+20076,Pizza Place
+20076,Coffee Shop
+20076,Recreation Center
+20076,Park
+20076,Park
+20076,Café
+20076,Café
+20076,Pizza Place
+20076,Café
+20076,Park
+20076,Pizza Place
+20076,Coffee Shop
+20076,Café
+20078,Pizza Place
+20078,Café
+20078,Pizza Place
+20078,Café
+20078,Café
+20078,Beach
+20078,Beach
+20078,Beach
+20079,Pizza Place
+20079,Soccer Field
+20079,Playground
+20079,Dog Run
+20079,General Entertainment
+20079,Café
+20079,Coffee Shop
+20079,Park
+20079,Garden
+20079,Playground
+20104,Café
+20104,Café
+20104,Café
+20104,Park
+20104,Café
+20104,Coffee Shop
+20104,Pizza Place
+20104,Coffee Shop
+20104,Coffee Shop
+20104,Pizza Place
+20104,Garden
+20104,Park
+20104,Movie Theater
+20104,Pizza Place
+20104,Zoo Exhibit
+20104,Café
+20104,Café
+20104,Café
+20104,Coffee Shop
+20104,Pizza Place
+20104,Café
+20104,Café
+20104,Park
+20104,Art Gallery
+20104,Art Gallery
+20104,Café
+20104,Coffee Shop
+20104,Theme Park
+20104,Café
+20104,Café
+20122,Café
+20122,Café
+20122,Pizza Place
+20122,Café
+20122,Café
+20122,Café
+20122,Café
+20122,Café
+20122,Café
+20122,Indoor Play Area
+20122,Café
+20122,Café
+20122,Café
+20122,Café
+20122,Café
+20122,Café
+20122,Coffee Shop
+20122,Café
+20123,Park
+20181,Exhibit
+20181,Café
+20181,Soccer Field
+20181,Sports Club
+20181,Park
+20181,Café
+20181,Pizza Place
+20181,Café
+20181,Australian Restaurant
+20181,Café
+20213,Café
+20213,Café
+20213,American Restaurant
+20213,Café
+20213,Café
+20213,Café
+20213,Café
+20213,Café
+20213,Café
+20213,Café
+20213,Café
+20213,Pizza Place
+20213,Pizza Place
+20213,Café
+20213,Café
+20213,Café
+20213,Café
+20213,Café
+20213,Recreation Center
+20213,Coffee Shop
+20213,Café
+20213,Café
+20213,Café
+20213,Pool Hall
+20213,Eastern European Restaurant
+20213,Coffee Shop
+20213,Café
+20214,Café
+20251,Pizza Place
+20251,Café
+20251,Kebab Restaurant
+20251,Café
+20251,Café
+20251,Playground
+20251,Café
+20251,Café
+20251,Park
+20251,Park
+20251,Café
+20251,Café
+20251,Sports Club
+20251,Café
+20251,Café
+20251,Café
+20251,Park
+20251,Pizza Place
+20251,Café
+20251,Café
+20251,Café
+20251,Playground
+20251,Café
+20251,General Entertainment
+20251,Café
+20251,Café
+20251,Café
+20251,Café
+20251,Café
+20253,Park
+20253,Café
+20253,Café
+20277,Beach
+20277,Café
+20277,Pizza Place
+20277,Pizza Place
+20277,Beach
+20312,Garden
+20312,Park
+20312,Coffee Shop
+20312,Coffee Shop
+20312,Café
+20312,Park
+20312,Coffee Shop
+20312,Café
+20312,Café
+20312,Pool Hall
+20312,Pizza Place
+20312,Greek Restaurant
+20312,Historic Site
+20312,Café
+20312,Café
+20312,Café
+20313,Pizza Place
+20313,Park
+20313,Park
+20313,Park
+20313,Park
+20313,General Entertainment
+20313,Café
+20313,Plaza
+20314,Café
+20314,Recreation Center
+20314,Park
+20314,Café
+20314,Café
+20335,Playground
+20335,Coffee Shop
+20335,Art Gallery
+20335,Recreation Center
+20335,Historic Site
+20335,Art Gallery
+20335,Dog Run
+20335,Garden
+20335,Park
+20335,History Museum
+20335,Pool
+20335,Coffee Shop
+20335,Indie Movie Theater
+20335,Café
+20335,Café
+20335,Coffee Shop
+20335,Art Gallery
+20335,Café
+20335,Café
+20335,Café
+20335,Coffee Shop
+20335,Plaza
+20335,Café
+20335,Café
+20335,Movie Theater
+20335,Café
+20335,Café
+20335,Café
+20335,Café
+20336,Café
+20336,Café
+20336,Italian Restaurant
+20336,Garden
+20336,Tennis Stadium
+20359,Café
+20359,Grocery Store
+20359,Pizza Place
+20359,Café
+20359,Café
+20359,Coffee Shop
+20359,Café
+20359,Coffee Shop
+20359,Café
+20359,Plaza
+20359,Café
+20359,Pool
+20359,General Entertainment
+20359,Café
+20359,Coffee Shop
+20359,Café
+20359,Café
+20359,Café
+20359,Café
+20359,Café
+20359,Café
+20359,Food Court
+20359,Café
+20359,Art Gallery
+20359,Breakfast Spot
+20359,Café
+20359,Café
+20359,Café
+20360,Park
+20360,Café
+20360,Café
+20360,Café
+20360,Coffee Shop
+20360,Bakery
+20360,Café
+20360,Park
+20360,Garden Center
+20360,Pizza Place
+20360,Garden
+20360,Coffee Shop
+20360,Pizza Place
+20360,Café
+20360,Park
+20360,Park
+20360,Cafeteria
+20360,Park
+20360,Exhibit
+20360,Garden
+20360,Art Gallery
+20360,Playground
+20360,Art Gallery
+20360,Café
+20360,Trail
+20360,General Entertainment
+20360,Café
+20360,Café
+20360,Café
+20361,Park
+20361,Italian Restaurant
+20361,Café
+20361,Recreation Center
+20361,Trail
+20361,Pizza Place
+20361,General Entertainment
+20361,Coffee Shop
+20361,Café
+20361,Café
+20361,Pizza Place
+20361,Café
+20384,Park
+20384,Pizza Place
+20416,Café
+20416,Café
+20416,Playground
+20416,Park
+20416,Design Studio
+20416,Café
+20416,Café
+20416,Café
+20416,Japanese Restaurant
+20416,Dog Run
+20416,Bridge
+20416,Park
+20416,Breakfast Spot
+20416,Café
+20416,Furniture / Home Store
+20416,Park
+20416,Café
+20416,Vegetarian / Vegan Restaurant
+20416,Café
+20416,Park
+20416,General Entertainment
+20416,Theme Park
+20416,Park
+20416,Café
+20416,Coffee Shop
+20416,Trail
+20416,General Entertainment
+20416,Café
+20424,Coffee Shop
+20424,Café
+20424,Playground
+20424,Soccer Field
+20424,Pizza Place
+20424,Café
+20424,Café
+20424,Café
+20424,Café
+20424,Art Gallery
+20424,Dog Run
+20424,Breakfast Spot
+20424,Café
+20424,Café
+20425,Café
+20425,Pizza Place
+20425,Café
+20425,Food Court
+20425,Food Court
+20425,Café
+20425,Café
+20425,Café
+20425,Park
+20425,Playground
+20451,Playground
+20451,Park
+20451,Park
+20451,Playground
+20451,Park
+20451,Park
+20451,Café
+20451,Café
+20451,Park
+20466,Café
+20466,Café
+20466,Dance Studio
+20466,Café
+20466,Park
+20466,Coffee Shop
+20466,Café
+20466,Café
+20466,Café
+20466,Café
+20466,Café
+20466,Park
+20466,Playground
+20466,Park
+20466,Café
+20466,Café
+20466,Café
+20466,Café
+20466,Café
+20466,Café
+20466,Café
+20466,Café
+20466,Café
+20466,Coffee Shop
+20466,Pool Hall
+20492,Pizza Place
+20492,Dessert Shop
+20492,Café
+20492,Park
+20492,Dessert Shop
+20492,Pizza Place
+20492,Museum
+20492,Plaza
+20492,Dessert Shop
+20492,Italian Restaurant
+20492,Coffee Shop
+20492,Park
+20492,Playground
+20492,Park
+20492,Indie Movie Theater
+20492,Park
+20492,History Museum
+20492,Sports Club
+20492,Pizza Place
+20492,Coffee Shop
+20492,Monument / Landmark
+20492,Museum
+20492,Pizza Place
+20492,Café
+20492,Café
+20492,Café
+20492,Café
+20492,Cheese Shop
+20492,Café
+20492,Italian Restaurant
+20493,Breakfast Spot
+20493,Café
+20493,Café
+20493,Lake
+20493,Historic Site
+20493,Café
+20493,Park
+20493,General Entertainment
+20493,Café
+20493,Café
+20493,Café
+20493,Café
+20493,Café
+20493,Pizza Place
+20493,Art Gallery
+20493,Garden
+20493,Playground
+20493,Dog Run
+20493,Café
+20493,Pizza Place
+20493,Café
+20493,Turkish Restaurant
+20493,Deli / Bodega
+20493,Café
+20493,Café
+20493,Café
+20493,Café
+20495,Café
+20495,Café
+20495,Café
+20495,Café
+20495,Café
+20495,Café
+20495,Playground
+20495,Car Wash
+20495,Café
+20495,Café
+20495,Café
+20495,Café
+20495,General Entertainment
+20495,Café
+20495,Café
+20495,Pizza Place
+20495,Café
+20495,Pizza Place
+20495,Pizza Place
+20495,Café
+20495,Pizza Place
+20495,Coffee Shop
+20495,Café
+20495,Coffee Shop
+20495,Art Gallery
+20495,General Entertainment
+20495,Café
+20495,Café
+20504,Café
+20504,Beach
+20504,Pizza Place
+20504,Café
+20504,Pizza Place
+20504,Café
+20504,Café
+20518,Coffee Shop
+20518,Fast Food Restaurant
+20518,Café
+20518,Coffee Shop
+20518,Café
+20518,Art Gallery
+20518,Coffee Shop
+20518,Pool Hall
+20518,General Entertainment
+20518,Café
+20518,Café
+20518,Café
+20518,Café
+20518,Café
+20518,Indie Movie Theater
+20518,Pizza Place
+20518,Café
+20518,Café
+20518,Café
+20518,Café
+20518,Café
+20518,Café
+20518,Pizza Place
+20518,Café
+20519,Café
+20519,Park
+20519,Water Park
+20519,General Entertainment
+20519,Café
+20519,Public Art
+20519,Plaza
+20519,Café
+20519,Café
+20519,General Entertainment
+20519,Café
+20519,Art Gallery
+20519,Park
+20519,Recreation Center
+20519,Coffee Shop
+20519,Coffee Shop
+20519,Cafeteria
+20519,Café
+20519,General Entertainment
+20519,General Entertainment
+20520,Coffee Shop
+20520,Park
+20520,Outdoor Event Space
+20520,Café
+20520,Café
+20520,Park
+20520,Memorial Site
+20520,Vegetarian / Vegan Restaurant
+20520,Café
+20520,Falafel Restaurant
+20520,Playground
+20520,Playground
+20520,Fish & Chips Shop
+20520,Pizza Place
+20520,Café
+20521,Other Great Outdoors
+20521,Dog Run
+20521,Athletics & Sports
+20521,Playground
+20521,Soccer Field
+20521,Recreation Center
+20521,Café
+20521,Café
+20521,Café
+20521,Deli / Bodega
+20534,Café
+20534,Café
+20534,Beach
+20534,Middle Eastern Restaurant
+20534,Park
+20534,Playground
+20534,Pizza Place
+20534,City Hall
+20534,Café
+20534,Café
+20534,Café
+20534,Café
+20534,Café
+20534,Café
+20534,Café
+20534,Coffee Shop
+20534,Café
+20534,Café
+20534,Coffee Shop
+20534,Pizza Place
+20534,Beach
+20534,Café
+20534,Café
+20534,Café
+20534,Café
+20534,Pizza Place
+20534,Café
+20534,Café
+20534,Café
+20535,Bakery
+20535,Pool
+20535,Soccer Field
+20535,Pizza Place
+20535,Playground
+20536,Café
+20536,Coffee Shop
+20536,Car Wash
+20536,Indoor Play Area
+20536,Café
+20536,Café
+20536,Café
+20536,Café
+20571,Pool
+20571,Playground
+20571,Pizza Place
+20571,Garden
+20571,Stadium
+20571,Café
+20571,Soccer Field
+20571,Park
+20571,Pool
+20571,Café
+20571,Bridge
+20571,Park
+20571,Pizza Place
+20571,Café
+20571,Park
+20571,Café
+20571,Bar
+20571,Bakery
+20571,Coffee Shop
+20571,Park
+20571,Pizza Place
+20571,Coffee Shop
+20571,General Entertainment
+20571,Strip Club
+20571,Café
+20571,Café
+20571,Café
+20571,Café
+20571,Café
+20592,Café
+20592,Café
+20592,Coffee Shop
+20592,Thai Restaurant
+20592,Trail
+20592,Soccer Field
+20592,Supermarket
+20592,Gym
+20592,Café
+20592,Café
+20592,Café
+20592,Pizza Place
+20592,Café
+20592,Café
+20592,Café
+20592,Pizza Place
+20592,Café
+20592,Soccer Field
+20592,Recreation Center
+20592,Café
+20592,General Entertainment
+20592,Soccer Field
+20592,Playground
+20592,Food Court
+20592,Park
+20592,Park
+20592,Playground
+20592,General Entertainment
+20592,Café
+20612,Coffee Shop
+20612,Coffee Shop
+20612,Art Gallery
+20612,Park
+20612,Bakery
+20612,Café
+20612,Café
+20612,Coffee Shop
+20612,Café
+20612,Street Art
+20612,Strip Club
+20612,Park
+20612,Café
+20612,Café
+20612,Café
+20612,Italian Restaurant
+20612,Café
+20612,Pizza Place
+20612,Gastropub
+20612,Bar
+20612,Café
+20612,Café
+20612,Art Gallery
+20612,Movie Theater
+20612,Café
+20612,Café
+20612,Café
+20612,Pizza Place
+20612,Café
+20612,Café
+20665,Café
+20665,Pub
+20665,Café
+20665,Art Gallery
+20665,Café
+20665,Bridge
+20665,Bridge
+20665,Coffee Shop
+20665,Café
+20665,Park
+20665,Pizza Place
+20665,Art Gallery
+20665,Café
+20665,Café
+20665,Café
+20665,Coffee Shop
+20665,Café
+20665,Café
+20665,Exhibit
+20665,Café
+20665,Café
+20665,Café
+20665,Art Gallery
+20665,Café
+20665,Pub
+20665,Café
+20665,General Entertainment
+20665,Café
+20665,Café
+20722,Café
+20722,Park
+20722,Pizza Place
+20722,Café
+20722,Park
+20722,Flower Shop
+20722,Café
+20722,Café
+20722,Café
+20752,Pizza Place
+20760,Café
+20760,Café
+20760,Art Gallery
+20760,Park
+20760,Park
+20760,Café
+20760,Café
+20760,Café
+20760,History Museum
+20760,Park
+20760,Coffee Shop
+20760,General Entertainment
+20760,Café
+20760,Cafeteria
+20760,General Entertainment
+20760,Café
+20760,Café
+20760,Coffee Shop
+20760,Asian Restaurant
+20760,Café
+20760,Pizza Place
+20760,Coffee Shop
+20760,Coffee Shop
+20760,Performing Arts Venue
+20760,Café
+20760,Café
+20760,Café
+20760,Café
+20760,Public Art
+20760,General Entertainment
+20765,Movie Theater
+20765,Indie Movie Theater
+20765,Café
+20765,Café
+20765,Café
+20765,Coffee Shop
+20765,Coffee Shop
+20765,Italian Restaurant
+20765,Movie Theater
+20765,Café
+20765,Multiplex
+20765,Playground
+20765,Café
+20765,Food Court
+20765,Coffee Shop
+20765,Movie Theater
+20765,Café
+20765,Movie Theater
+20765,Café
+20765,Food Court
+20765,Café
+20765,Café
+20765,Playground
+20765,Café
+20765,Playground
+20765,Art Gallery
+20765,Dessert Shop
+20765,General Entertainment
+20765,General Entertainment
+20766,Café
+20766,Playground
+20766,Playground
+20766,Recreation Center
+20766,Recreation Center
+20766,Dessert Shop
+20766,Café
+20766,General Entertainment
+20766,Pizza Place
+20766,Park
+20768,Trail
+20824,Park
+20824,Playground
+20824,Park
+20824,Sculpture Garden
+20824,Café
+20824,Coffee Shop
+20824,Grocery Store
+20824,Park
+20824,Café
+20824,River
+20824,Plaza
+20824,Café
+20824,Café
+20824,Pizza Place
+20824,Pizza Place
+20824,Café
+20824,Café
+20824,Café
+20824,Art Gallery
+20824,Garden
+20824,Soccer Field
+20824,Art Gallery
+20824,Art Gallery
+20824,Pizza Place
+20824,Pool Hall
+20824,Coffee Shop
+20824,Café
+20824,Café
+20824,Café
+20842,Beach
+20842,Park
+20842,Pizza Place
+20842,Recreation Center
+20842,Café
+20842,Café
+20842,Beach
+20842,Café
+20842,Surf Spot
+20842,Beach
+20858,Café
+20858,Café
+20858,Plaza
+20858,Café
+20858,Café
+20858,General Entertainment
+20858,Pizza Place
+20858,Park
+20858,Playground
+20858,Park
+20858,Park
+20858,Park
+20858,Café
+20858,Café
+20858,Pizza Place
+20858,Café
+20858,Trail
+20858,Café
+20858,Café
+20858,Café
+20858,Café
+20858,Café
+20858,Café
+20858,Plaza
+20858,Café
+20858,Café
+20858,Coffee Shop
+20858,Coffee Shop
+20858,General Entertainment
+20858,Café
+20861,River
+20861,Bakery
+20861,Playground
+20861,Café
+20861,Dog Run
+20861,River
+20861,Trail
+20861,Café
+20861,Pizza Place
+20861,Café
+20861,Café
+20861,Playground
+20861,Playground
+20861,Café
+20861,Café
+20861,Café
+20861,Café
+20861,Café
+20861,Garden
+20861,General Entertainment
+20861,General Entertainment
+20861,Café
+20861,Café
+20861,Café
+20861,Café
+20861,Park
+20861,Park
+20861,Café
+20879,Café
+20879,Coffee Shop
+20879,Café
+20879,Recreation Center
+20879,Pizza Place
+20879,Café
+20879,Café
+20879,Pizza Place
+20879,Café
+20879,Italian Restaurant
+20879,Café
+20879,Café
+20879,Café
+20879,Cricket Ground
+20879,Café
+20879,Café
+20879,Football Stadium
+20879,Café
+20879,Café
+20879,Café
+20879,Café
+20879,Café
+20879,Pizza Place
+20879,General Entertainment
+20879,Pizza Place
+20879,Café
+20879,Indie Movie Theater
+20879,Café
+20879,Café
+20881,Café
+20881,Pizza Place
+20881,Coffee Shop
+20881,Café
+20881,Café
+20881,Café
+20881,Pizza Place
+20881,Park
+20895,Pizza Place
+20895,Café
+20895,Café
+20895,Pizza Place
+20895,Food & Drink Shop
+20895,Café
+20895,Park
+20895,Café
+20895,Café
+20895,Café
+20895,Café
+20895,Café
+20895,Café
+20895,Café
+20895,Café
+20895,Café
+20895,General Entertainment
+20895,Park
+20895,Café
+20895,Café
+20895,Art Gallery
+20895,Bowling Green
+20895,Café
+20895,Café
+20895,Soccer Field
+20895,Dog Run
+20895,Café
+20895,Café
+20895,Café
+20895,Coffee Shop
+20918,Coffee Shop
+20918,Café
+20918,French Restaurant
+20918,Café
+20918,Bakery
+20918,Café
+20918,Café
+20918,Coffee Shop
+20918,Park
+20918,Café
+20918,Café
+20918,Park
+20918,Breakfast Spot
+20918,Art Gallery
+20918,Italian Restaurant
+20918,Café
+20918,Bridge
+20918,Café
+20918,Art Gallery
+20918,Café
+20918,Café
+20918,Art Gallery
+20918,Café
+20918,Café
+20918,Pizza Place
+20918,Bakery
+20918,Café
+20918,Café
+20918,Café
+20919,Café
+20919,Bakery
+20919,Coffee Shop
+20919,Park
+20919,Ice Cream Shop
+20919,Coffee Shop
+20919,Café
+20919,Park
+20919,Pizza Place
+20919,Playground
+20919,Park
+20919,Coffee Shop
+20919,Café
+20919,Football Stadium
+20919,Café
+20919,Bowling Green
+20919,Art Gallery
+20919,Park
+20919,Sandwich Place
+20919,Café
+20919,Sports Club
+20919,Park
+20919,Trail
+20919,Pizza Place
+20919,Pizza Place
+20919,Café
+20919,Café
+20919,Bar
+20923,Café
+20923,Café
+20923,Historic Site
+20923,Bowling Green
+20923,Pizza Place
+20923,Café
+20923,Park
+20923,Park
+20923,Pizza Place
+20958,Coffee Shop
+20958,Café
+20958,Café
+20958,Italian Restaurant
+20958,Café
+20958,Café
+20958,Café
+20958,Park
+20958,General Entertainment
+20958,Soccer Field
+20958,Playground
+20958,Coffee Shop
+20958,Art Gallery
+20958,Café
+20958,Playground
+20958,General Entertainment
+21002,Café
+21002,Café
+21002,Café
+21002,Playground
+21002,Playground
+21002,Art Gallery
+21002,Café
+21002,Café
+21002,Café
+21002,Park
+21002,Café
+21002,Polish Restaurant
+21002,Café
+21002,Pizza Place
+21002,Café
+21003,Park
+21003,Café
+21003,Park
+21003,Playground
+21003,Coffee Shop
+21003,Park
+21003,Café
+21003,Café
+21003,Park
+21003,Café
+21003,Park
+21003,Playground
+21003,Coffee Shop
+21003,Park
+21003,Café
+21003,Café
+21123,Deli / Bodega
+21123,Pizza Place
+21123,Café
+21123,Café
+21123,Café
+21123,Café
+21123,Café
+21123,Beach
+21123,Beach
+21123,Café
+21123,Coffee Shop
+21123,Café
+21123,Café
+21123,Coffee Shop
+21123,Pizza Place
+21123,Café
+21123,Café
+21123,Café
+21123,Café
+21123,Café
+21123,Café
+21123,Café
+21123,Playground
+21123,Café
+21123,Café
+21123,Park
+21123,Garden
+21123,Garden
+21123,General Entertainment
+21123,Pizza Place
+21124,Playground
+21124,Sports Club
+21124,Playground
+21143,Café
+21143,Café
+21143,Cupcake Shop
+21143,Pizza Place
+21143,Café
+21143,Café
+21143,Art Gallery
+21143,Coffee Shop
+21143,Coffee Shop
+21143,Art Gallery
+21143,Café
+21143,Hookah Bar
+21143,Café
+21143,Café
+21143,Pizza Place
+21143,Café
+21143,Café
+21143,Bubble Tea Shop
+21143,Coffee Shop
+21143,Art Gallery
+21143,Café
+21143,Garden
+21143,Café
+21143,Café
+21143,Coffee Shop
+21143,Café
+21143,Café
+21143,Café
+21143,Café
+21144,Park
+21144,Café
+21144,Café
+21144,Bike Shop
+21144,Indie Movie Theater
+21144,Garden
+21144,Café
+21144,Italian Restaurant
+21144,Pizza Place
+21144,Movie Theater
+21144,Café
+21144,Café
+21144,Café
+21144,Café
+21144,Multiplex
+21144,Coffee Shop
+21144,Coffee Shop
+21144,Café
+21176,Playground
+21176,Pizza Place
+21176,Café
+21176,Café
+21176,Café
+21176,Coffee Shop
+21176,Café
+21176,General Entertainment
+21176,Café
+21176,Pizza Place
+21176,Bakery
+21176,Café
+21176,Café
+21176,Café
+21176,Café
+21176,Playground
+21176,Playground
+21205,Café
+21205,Café
+21205,Café
+21205,Café
+21205,Pizza Place
+21205,Park
+21205,Park
+21205,Park
+21205,Trail
+21205,Pizza Place
+21205,Recreation Center
+21205,Café
+21319,Café
+21319,Café
+21319,Coffee Shop
+21319,Pizza Place
+21319,Pizza Place
+21319,Pizza Place
+21319,Art Studio
+21319,Park
+21319,Park
+21319,Exhibit
+21319,Art Gallery
+21319,Café
+21319,Coffee Shop
+21319,Playground
+21319,Pizza Place
+21319,Café
+21319,Café
+21319,Café
+21319,Playground
+21319,Historic Site
+21319,Park
+21319,Café
+21319,Café
+21319,Art Gallery
+21319,Café
+21319,Performing Arts Venue
+21319,Dog Run
+21319,Playground
+21319,Café
+21319,Café
+21328,Café
+21328,Pizza Place
+21328,Café
+21328,Café
+21328,Pizza Place
+21328,Garden
+21328,Park
+21328,General Entertainment
+21328,General Entertainment
+21328,Café
+21328,Café
+21328,Café
+21328,Historic Site
+21328,Café
+21328,Café
+21328,Café
+21328,Café
+21328,Café
+21328,Café
+21328,Café
+21329,Park
+21329,Café
+21385,Dog Run
+21385,Park
+21385,Park
+21385,Soccer Field
+21385,Park
+21385,Park
+21385,Tennis Stadium
+21385,Soccer Field
+21385,Café
+21385,Café
+21385,Café
+21385,Pool Hall
+21385,Garden
+21385,Café
+21385,Café
+21385,Garden
+21385,Pool
+21385,Pizza Place
+21385,Café
+21385,Café
+21385,Park
+21385,Café
+21576,Garden
+21576,Pizza Place
+21576,Café
+21576,Park
+21576,Coffee Shop
+21576,Playground
+21576,Playground
+21576,Cricket Ground
+21576,Café
+21576,Café
+21576,Café
+21576,Dog Run
+21576,Café
+21576,Coffee Shop
+21576,Café
+21576,Café
+21576,Café
+21576,Italian Restaurant
+21576,Café
+21576,Pizza Place
+21576,Café
+21576,Café
+21576,Café
+21576,Café
+21576,Garden
+21576,Pizza Place
+21576,Café
+21576,Park
+21576,Coffee Shop
+21576,Playground
+21576,Playground
+21576,Cricket Ground
+21576,Café
+21576,Café
+21576,Café
+21576,Dog Run
+21576,Café
+21576,Coffee Shop
+21576,Café
+21576,Café
+21576,Café
+21576,Italian Restaurant
+21576,Café
+21576,Pizza Place
+21576,Café
+21576,Café
+21576,Café
+21576,Café
+21577,Pizza Place
+21577,Breakfast Spot
+21577,Café
+21577,Café
+21577,Park
+21577,Park
+21577,Garden
+21577,General Entertainment
+21577,Pizza Place
+21577,Dog Run
+21618,Café
+21618,Café
+21618,Pizza Place
+21618,Café
+21618,Café
+21618,Café
+21618,Dog Run
+21618,Café
+21618,Pizza Place
+21618,Pizza Place
+21618,Pizza Place
+21618,Coffee Shop
+21618,Coffee Shop
+21629,Coffee Shop
+21629,Shopping Mall
+21629,Coffee Shop
+21629,Shopping Mall
+21629,Coffee Shop
+21629,Coffee Shop
+21629,Coffee Shop
+21629,Plaza
+21629,Café
+21629,Coffee Shop
+21629,Coffee Shop
+21629,Juice Bar
+21629,Food Court
+21629,Coffee Shop
+21629,Movie Theater
+21629,Shopping Mall
+21629,Coffee Shop
+21629,Café
+21629,Library
+21629,Donut Shop
+21629,Plaza
+21629,Coffee Shop
+21629,Bar
+21629,Multiplex
+21629,Pub
+21629,Coffee Shop
+21629,Food Court
+21629,General Entertainment
+21629,Café
+21629,Coffee Shop
+21637,Radio Station
+21637,Pizza Place
+21637,Pizza Place
+21637,Recreation Center
+21637,Italian Restaurant
+21637,Café
+21637,Park
+21637,Bridge
+21637,Pool
+21637,Café
+21637,Café
+21637,Café
+21637,Café
+21637,Café
+21637,Café
+21637,Café
+21637,Café
+21637,Café
+21637,Café
+21637,Café
+21637,Café
+21637,Café
+21637,Café
+21637,Pizza Place
+21666,Café
+21666,Café
+21666,Beach
+21666,Café
+21666,Café
+21666,Café
+21666,Café
+21666,Art Gallery
+21666,Playground
+21666,Café
+21666,Café
+21666,Café
+21666,Park
+21666,Sports Club
+21666,Playground
+21666,Trail
+21666,Playground
+21666,Football Stadium
+21666,Playground
+21720,Café
+21720,Café
+21720,Pizza Place
+21720,Café
+21720,Pizza Place
+21720,Café
+21720,Café
+21720,Coffee Shop
+21720,Pool
+21720,Park
+21720,Playground
+21720,Café
+21721,Park
+21721,Trail
+21721,Park
+21721,Park
+21730,Café
+21730,Café
+21730,Plaza
+21730,Café
+21730,Café
+21730,Café
+21730,Café
+21730,Café
+21730,Café
+21730,Art Gallery
+21730,Park
+21730,Café
+21730,Café
+21730,Café
+21730,Café
+21730,Café
+21730,Coffee Shop
+21730,Café
+21730,Bowling Green
+21730,Café
+21730,Café
+21730,Coffee Shop
+21730,Café
+21730,Pizza Place
+21730,Café
+21730,Café
+21730,Café
+21730,Café
+21730,Café
+21734,Café
+21734,Fast Food Restaurant
+21734,Café
+21734,Art Gallery
+21734,Café
+21734,Café
+21734,Café
+21734,Sports Club
+21734,Planetarium
+21734,Café
+21734,Café
+21734,Coffee Shop
+21734,Café
+21734,Café
+21734,Café
+21734,General Entertainment
+21734,Café
+21734,Café
+21734,Pizza Place
+21734,Football Stadium
+21748,Café
+21748,Café
+21748,Bakery
+21748,Park
+21748,Coffee Shop
+21748,Pizza Place
+21748,Café
+21748,Pizza Place
+21748,Café
+21748,Pier
+21748,Coffee Shop
+21748,Bridge
+21748,Pizza Place
+21748,Beach
+21748,Playground
+21748,Playground
+21748,Beach
+21748,Café
+21748,Beach
+21748,Coffee Shop
+21748,Art Gallery
+21748,Pizza Place
+21748,Sports Club
+21748,Beach
+21748,Pizza Place
+21748,General Entertainment
+21837,Café
+21837,Breakfast Spot
+21837,Café
+21837,Café
+21837,Café
+21837,Café
+21837,Café
+21837,Park
+21837,Park
+21837,Pizza Place
+21837,Café
+21837,Café
+21837,Garden
+21837,Café
+21954,Bridge
+21954,Coffee Shop
+21954,Café
+21954,Bridge
+21954,Art Gallery
+21954,Café
+21954,Café
+21954,Concert Hall
+21954,Café
+21954,Café
+21954,Café
+21954,Park
+21954,Art Gallery
+21954,Art Gallery
+21954,Café
+21954,Coffee Shop
+21954,Café
+21954,Café
+21954,Café
+21954,Café
+21954,Café
+21954,Café
+21954,Café
+21954,Café
+21959,Café
+21959,Playground
+21959,Pool
+21959,Park
+21959,Playground
+21959,Coffee Shop
+21959,Café
+21959,Café
+22004,Café
+22004,Coffee Shop
+22004,Bakery
+22004,Coffee Shop
+22004,Café
+22004,Office
+22004,Pizza Place
+22004,Café
+22025,Pizza Place
+22025,Café
+22025,Café
+22025,Pizza Place
+22025,Café
+22025,Café
+22025,Coffee Shop
+22025,Café
+22025,Café
+22025,Pizza Place
+22025,Art Gallery
+22025,Café
+22025,Café
+22025,Café
+22025,Café
+22025,Café
+22025,Playground
+22025,Café
+22026,Zoo Exhibit
+22026,Zoo
+22026,Zoo Exhibit
+22026,Zoo Exhibit
+22026,Zoo Exhibit
+22026,General Entertainment
+22026,Park
+22026,Zoo Exhibit
+22026,Park
+22026,Zoo Exhibit
+22026,Zoo Exhibit
+22026,Zoo Exhibit
+22026,Zoo Exhibit
+22026,Zoo Exhibit
+22026,Zoo Exhibit
+22026,Zoo Exhibit
+22026,Hockey Arena
+22026,Zoo Exhibit
+22026,Park
+22026,Zoo Exhibit
+22026,Dog Run
+22026,General Entertainment
+22026,Garden
+22026,Zoo Exhibit
+22026,Sports Club
+22026,Zoo Exhibit
+22026,General Entertainment
+22026,Café
+22026,Sports Club
+22026,Park
+22029,Café
+22029,Pizza Place
+22029,Café
+22029,Café
+22029,Café
+22029,Park
+22029,Playground
+22029,Park
+22029,Sports Club
+22029,Playground
+22029,General Entertainment
+22030,Café
+22030,Café
+22030,Playground
+22030,Coffee Shop
+22030,Pizza Place
+22035,Pizza Place
+22035,Café
+22035,Italian Restaurant
+22035,Café
+22035,Café
+22035,Café
+22035,Café
+22035,Pizza Place
+22035,Pizza Place
+22035,Pizza Place
+22035,Bar
+22095,Café
+22095,General Entertainment
+22095,Beach
+22095,Coffee Shop
+22095,Soccer Field
+22095,Garden
+22095,Café
+22095,Café
+22095,General Entertainment
+22106,Park
+22106,Pizza Place
+22106,Park
+22106,Park
+22106,Coffee Shop
+22106,Coffee Shop
+22106,Pizza Place
+22106,Playground
+22106,Pool
+22106,Café
+22106,Café
+22106,Café
+22106,Café
+22106,Café
+22106,Deli / Bodega
+22106,Café
+22106,Pizza Place
+22106,Café
+22106,Italian Restaurant
+22106,Café
+22106,Café
+22106,Café
+22106,Café
+22106,Italian Restaurant
+22106,Café
+22106,Coffee Shop
+22106,Zoo Exhibit
+22106,General Entertainment
+22106,Café
+22110,Café
+22110,Park
+22110,Park
+22110,Breakfast Spot
+22110,Park
+22110,Sports Club
+22110,Dog Run
+22110,Sports Club
+22110,Café
+22110,Playground
+22110,Playground
+22110,Park
+22110,Café
+22110,Café
+22110,Public Art
+22110,Park
+22110,Pizza Place
+22158,Café
+22158,Grocery Store
+22158,Café
+22158,Café
+22158,Café
+22158,Art Gallery
+22158,Café
+22158,Strip Club
+22158,Café
+22158,Coffee Shop
+22158,Café
+22158,Pizza Place
+22158,Theme Park
+22158,Café
+22158,Café
+22158,Art Gallery
+22158,Art Gallery
+22158,Coffee Shop
+22158,Café
+22158,Café
+22158,Café
+22158,Café
+22158,Art Gallery
+22158,Playground
+22158,Art Gallery
+22158,Art Gallery
+22158,Café
+22158,Bar
+22158,Café
+22158,Café
+22167,Café
+22167,Café
+22167,Café
+22167,Café
+22167,Café
+22167,Café
+22167,Coffee Shop
+22167,Park
+22167,Garden
+22167,Café
+22167,Café
+22167,Café
+22167,Exhibit
+22167,Park
+22167,Café
+22167,Pizza Place
+22167,General Entertainment
+22167,General Entertainment
+22167,Café
+22167,Café
+22167,Garden
+22167,General Entertainment
+22167,General Entertainment
+22167,General Entertainment
+22223,Beach
+22223,Café
+22223,Café
+22223,Café
+22223,Café
+22223,Café
+22223,Café
+22223,Café
+22223,Pizza Place
+22223,Coffee Shop
+22223,Park
+22223,Café
+22223,Deli / Bodega
+22223,Art Gallery
+22223,Café
+22223,Café
+22223,Café
+22223,Garden
+22223,Pizza Place
+22223,Café
+22223,Café
+22223,Trail
+22223,Café
+22223,Playground
+22223,Café
+22223,Café
+22223,Recreation Center
+22223,Pizza Place
+22223,General Entertainment
+22299,Coffee Shop
+22299,Café
+22299,Café
+22299,Coffee Shop
+22299,Café
+22299,Coffee Shop
+22299,Pizza Place
+22299,Coffee Shop
+22299,Playground
+22299,Café
+22299,Vegetarian / Vegan Restaurant
+22299,Café
+22299,Wine Bar
+22299,Café
+22299,Café
+22299,Café
+22299,Café
+22299,Café
+22299,Café
+22299,Coffee Shop
+22299,Café
+22299,Breakfast Spot
+22299,Café
+22299,Pizza Place
+22299,Café
+22299,Café
+22299,Café
+22299,Café
+22302,Food Court
+22302,Bridge
+22302,Plaza
+22302,Playground
+22302,Park
+22302,Bridge
+22302,Café
+22302,Café
+22302,Coffee Shop
+22302,Pizza Place
+22302,Park
+22302,Café
+22302,Café
+22302,Trail
+22302,Café
+22302,Café
+22302,Café
+22302,Café
+22302,Café
+22302,Park
+22302,Café
+22302,Café
+22302,Bar
+22302,Café
+22302,Café
+22302,Coffee Shop
+22302,Art Gallery
+22302,Café
+22302,Café
+22303,Café
+22303,Café
+22303,Café
+22303,Garden
+22303,Café
+22303,Dessert Shop
+22303,Coffee Shop
+22303,Café
+22303,Bridge
+22303,Café
+22303,Park
+22303,Trail
+22303,Bridge
+22303,Pizza Place
+22303,Café
+22303,Café
+22303,Café
+22303,Pizza Place
+22303,French Restaurant
+22303,Australian Restaurant
+22303,Café
+22303,Café
+22303,Coffee Shop
+22303,Pool
+22303,Italian Restaurant
+22303,Café
+22303,Coffee Shop
+22303,Café
+22303,Café
+22303,Bakery
+22304,Coffee Shop
+22304,Café
+22304,Park
+22304,Plaza
+22304,Pizza Place
+22304,Café
+22304,River
+22304,Coffee Shop
+22304,Art Gallery
+22304,Bridge
+22304,Coffee Shop
+22304,Café
+22304,Bridge
+22304,Plaza
+22304,Art Gallery
+22304,Bar
+22304,Café
+22304,Café
+22304,Café
+22304,Café
+22304,Café
+22304,Café
+22304,Hotel Bar
+22304,Café
+22304,Grocery Store
+22304,Pool
+22304,General Entertainment
+22304,General Entertainment
+22304,Café
+22304,General Entertainment
+22332,Coffee Shop
+22332,Coffee Shop
+22332,Italian Restaurant
+22332,Café
+22332,Park
+22332,Garden
+22332,Australian Restaurant
+22332,American Restaurant
+22332,History Museum
+22332,Art Gallery
+22332,Playground
+22332,Café
+22332,Theme Park
+22332,Café
+22332,Pizza Place
+22332,Coffee Shop
+22332,Theme Park
+22332,Diner
+22332,Café
+22332,Gastropub
+22332,Café
+22332,Dessert Shop
+22332,Café
+22332,Café
+22332,Café
+22332,Historic Site
+22332,Coffee Shop
+22332,Café
+22332,Bakery
+22332,Café
+22333,Park
+22333,Café
+22333,General Entertainment
+22333,Zoo Exhibit
+22333,Coffee Shop
+22333,General Entertainment
+22333,Park
+22333,Historic Site
+22333,Pizza Place
+22333,General Entertainment
+22333,Park
+22333,Café
+22333,General Entertainment
+22333,Zoo Exhibit
+22333,Coffee Shop
+22333,General Entertainment
+22333,Park
+22333,Historic Site
+22333,Pizza Place
+22333,General Entertainment
+22334,Playground
+22334,Beach
+22334,Café
+22334,Café
+22334,Restaurant
+22334,Pizza Place
+22334,Garden
+22334,Tattoo Parlor
+22334,Exhibit
+22334,Memorial Site
+22334,Park
+22334,Café
+22334,Café
+22334,Burger Joint
+22334,Italian Restaurant
+22334,Café
+22334,Playground
+22334,Bar
+22334,Surf Spot
+22334,Park
+22334,Soccer Field
+22334,Pizza Place
+22334,Historic Site
+22334,Art Gallery
+22334,Coffee Shop
+22334,Breakfast Spot
+22334,Café
+22334,Italian Restaurant
+22387,Café
+22387,Café
+22387,Bridge
+22387,Café
+22387,Café
+22387,Café
+22387,Café
+22387,Pizza Place
+22387,Park
+22387,Café
+22387,Garden
+22387,Garden Center
+22387,Playground
+22387,Park
+22387,Café
+22387,Café
+22387,Café
+22387,Multiplex
+22387,Café
+22387,Pizza Place
+22471,Café
+22471,Café
+22472,Playground
+22496,Coffee Shop
+22496,Café
+22496,Café
+22496,Theater
+22496,Pizza Place
+22496,Vegetarian / Vegan Restaurant
+22496,Pizza Place
+22496,Bar
+22496,Pizza Place
+22496,Playground
+22496,Café
+22496,Coffee Shop
+22496,Café
+22496,French Restaurant
+22496,Café
+22496,Café
+22496,Italian Restaurant
+22496,Coffee Shop
+22496,Café
+22496,Park
+22496,Café
+22496,Pizza Place
+22496,Pizza Place
+22496,Café
+22496,Café
+22496,Café
+22496,Café
+22496,Café
+22534,Café
+22534,Food Court
+22559,Dog Run
+22559,Pizza Place
+22559,Café
+22559,Nature Preserve
+22559,Dog Run
+22559,Pizza Place
+22559,General Entertainment
+22559,Dog Run
+22559,Park
+22559,Café
+22559,General Entertainment
+22559,Movie Theater
+22559,Café
+22559,Café
+22707,Café
+22707,Café
+22743,General Entertainment
+22743,Coffee Shop
+22791,Park
+22791,Café
+22791,Café
+22791,Playground
+22791,Furniture / Home Store
+22791,Park
+22791,Park
+22791,Café
+22791,Pizza Place
+22791,Deli / Bodega
+22791,Pizza Place
+22791,Café
+22791,Café
+22791,Park
+22791,Bridge
+22791,Indie Movie Theater
+22791,Café
+22791,Playground
+22791,Café
+22791,Café
+22791,Café
+22791,Café
+22791,Pizza Place
+22791,Art Gallery
+22791,Cafeteria
+22791,Art Gallery
+22791,Zoo Exhibit
+22791,Café
+22791,Café
+22791,Café
